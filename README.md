@@ -39,7 +39,7 @@ Vice-President, Credit Information Sytems, Global Risk Management, Scotiabank
 
 [CPA Ontario : Navigating the Brave New World of Cryptocurrency and ICOs](https://www.cpaontario.ca/stewardship-of-the-profession/insight-research/thought-leadership/navigating-the-brave-new-world-of-cryptocurrency-and-icos)
 
-[TokenFunder Launches Canada’s First Regulated Security Token on the Ethereum Blockchain] (https://tokenfunder.com/tokenfunder-launches-canadas-first-regulated-security-token-on-ethereum-blockchain/) May 2018.
+[TokenFunder Launches Canada’s First Regulated Security Token on the Ethereum Blockchain](https://tokenfunder.com/tokenfunder-launches-canadas-first-regulated-security-token-on-ethereum-blockchain/) May 2018.
 
 Bank of Canada releases paper on merits of creating digital currency. Globe and Mail. November 30, 2017.
 
