@@ -14,7 +14,7 @@ Twitter: [@alanwunsche](https://twitter.com/alanwunsche)
 
 Alan is CEO & Chief Token Officer of [TokenFunder](https://www.TokenFunder.com), and Chair & Co-Founder of [Blockchain Canada](http://www.BlockchainCanada.org).  Alan is a finance technologist focused on new blockchain business models and the disruptive impacts of blockchain on global wealth distribution and innovation. He brings hands-on technology experience as a finance and risk transformation executive at a global bank (Scotiabank), management consulting (Deloitte, PwC), and startups.
 
-## Full Speaker Bio
+## Full Bio
 
 Alan is CEO & Chief Token Officer of TokenFunder, a regulatory-compliant blockchain venture funding platform with Ontario's first regulated Initial Token Offering. He is also Chair & Co-Founder of Blockchain Canada, a Canadian federal not-for-profit corporation with a mission to connect Canadian Blockchain Innovators and to help Canada be a leader in blockchain technology. Alan is a finance technologist focused on new blockchain business models and the disruptive impacts of blockchain on global wealth distribution. He brings hands-on technology experience as a finance and risk transformation executive at a global bank (Scotiabank), management consulting (Deloitte, PwC), and startups.
 
