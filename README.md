@@ -4,9 +4,9 @@ CEO & Chief Token Officer, Founder, TokenFunder - "Building a Regulated CryptoFi
 
 [Alan@TokenFunder.com](mailto:alan@tokenfunder.com) | [PGP Key](https://github.com/alanwunsche/pgp/blob/master/alan%40tokenfunder.com)
 
-[LinkedIn](https://LinkedIn.com/in/alanwunsche
+[LinkedIn](https://LinkedIn.com/in/alanwunsche)
 
-Twitter: [@alanwunsche](https://twitter.com/alanwunsche
+Twitter: [@alanwunsche](https://twitter.com/alanwunsche)
 
 ## Intro
 
