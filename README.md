@@ -24,13 +24,17 @@ Blockchain/Fintech Expert ▪ Transformation Leader & Innovation Evangelist with
 
 ## Roles
 
-CEO, Co-Founder, Chief Token Officer, [TokenFunder](https://www.TokenFunder.com)
+CEO, Co-Founder, Chief Token Officer, [TokenFunder](https://www.TokenFunder.com) (2016 - present)
 
-Canadian Chair, Standard Council of Canada ISO/TC307 Blockchain Standards Committee
+Canada Chair, ISO/TC307 : Blockchain and distributed ledger technologies. Standards Council of Canada. (2016 - present)
 
-Chair, Co-Founder, [Blockchain Canada](https://www.blockchaincanada.org)
+Chair, Co-Founder, [Blockchain Canada](https://www.blockchaincanada.org) "Connecting Canadian Blockchain Innovators." (2016 - present)
 
-Vice-President, Credit Information Sytems, Global Risk Management, Scotiabank
+Member, CPA (Chartered Professional Accountants) Canada Audit Innovation Committee (2016 - present)
+
+CEO, Leading Knowledge Ltd. Management consulting and product development services. (2001 - present)
+
+Vice-President, Credit Information Sytems, Global Risk Management, Scotiabank 
 
 
 
@@ -53,26 +57,14 @@ OSC Invites OSC Invites TokenFunder to Play in the CSA Sandbox. Lexology. Octobe
 
 "Beyond cryptocurrency: There are new blockchain opportunities for SMBs", Financial Post, September 19, 2017
 
-Other Roles:
 
-Chair and Founder, Blockchain Canada. "Connecting Canadian Blockchain Innovators."
-
-
-
-CEO, Leading Knowledge Ltd. Management consulting and product development services. 
-
-
-
-Canada Chair, ISO/TC307 : Blockchain and distributed ledger technologies. Standards Council of Canada. (2016 - present)
-
-Member, CPA (Chartered Professional Accountants) Canada Audit Innovation Committee (2016 - present)
-Professional Accomplishments
+## Professional Accomplishments
 
 Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the Chartered Professional Accountants of Ontario <Canada>. He holds a Bachelor of Science (Chemistry) from the University of Western Ontario and a Masters of Business Administration (MBA) from Ivey Business School (University of Western Ontario). He is a Certified Bitcoin Professional with in-depth knowledge of cryptocurrencies.
 
 
 
-Presentations, Keynotes, Panels, Reports:
+## Presentations, Keynotes, Panels, Reports:
 
 ***  Contact Alan Wunsche to speak about cryptofinance and blockchain at your next event ***
 
