@@ -38,3 +38,210 @@ OSC Invites OSC Invites TokenFunder to Play in the CSA Sandbox. Lexology. Octobe
 "Ontario’s first regulated token offering given go-ahead". Globe and Mail. October 23, 2017
 
 "Beyond cryptocurrency: There are new blockchain opportunities for SMBs", Financial Post, September 19, 2017
+
+Other Roles:
+
+Chair and Founder, Blockchain Canada. "Connecting Canadian Blockchain Innovators."
+
+
+
+CEO, Leading Knowledge Ltd. Management consulting and product development services. 
+
+
+
+Canada Chair, ISO/TC307 : Blockchain and distributed ledger technologies. Standards Council of Canada. (2016 - present)
+
+Member, CPA (Chartered Professional Accountants) Canada Audit Innovation Committee (2016 - present)
+Professional Accomplishments
+
+Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the Chartered Professional Accountants of Ontario <Canada>. He holds a Bachelor of Science (Chemistry) from the University of Western Ontario and a Masters of Business Administration (MBA) from Ivey Business School (University of Western Ontario). He is a Certified Bitcoin Professional with in-depth knowledge of cryptocurrencies.
+
+
+
+Presentations, Keynotes, Panels, Reports:
+
+***  Contact Alan Wunsche to speak about cryptofinance and blockchain at your next event ***
+
+
+
+"Bitcoin, Ethereum, Blockchain: 2017 Recap and What To Expect in 2018". (link). OMERS. Toronto. December 2017
+
+"BLOCKCHAIN: WHAT IT IS AND WHY IT MATTERS" (link). AmCham Canada (The American Chamber of Commerce in Canada). Toronto. December 2017. 
+
+
+"Blockchain Impact" Conference. (link). Toronto. December 2017.
+
+"VanFunding 2017" (link). NCFA. November 2017
+
+"How Blockchain will Revolutionize Online Ads" (link). Data Marketing Toronto. November 2017.
+
+"New Frontiers in Capital Innovation – Initial Coin Offerings (ICOs)" (link). NCFA. November 2017.
+
+"The Potential of Blockchain and Fintech for Businesses". (link) Economic Club. November 2017.
+
+"Money Laundering, Cryptocurrencies & Cyber-Security” Conference" (link). Mackenzie Institute. November 2017.
+
+"Blockchain Startup Funding - What are the Options?". (link).  The Blockchain Hub (York University). November 2017.
+
+"Blockchains, Smart Contracts and the Law". (link) Toronto. Osgoode Law. November 2017.
+
+"Capital 2017 Connection" (link). Capital Connection. Canada’s Largest M&A and PE Conference. November 2017.
+
+"Blockchain, Cryptocurrency and ICOs: What’s It All About?" (link). Fasken Martineau. November 2017. 
+
+"Blockchain and Emerging Virtual Currencies: Understanding the Challenges, Opportunities and Risks". ACAMS 5th Annual AML & Financial Crime Conference. (link) Toronto, Canada. (November 2017)
+UWCISA 10th Biennial Symposium. University of Waterloo Centre for Information Integrity and Information Systems Assurance. (link) October 2017.
+
+TokenFunder at Startup Pitch Competition. (link) Las Vegas. October 2017.
+
+SingularityU Canada Summit - Toronto Satellite Event (link).  October 2017
+
+Blockchain Legal Breakfast: A Cryptocurrency Funding Revolution. (link). Start-up Group Seminar (Fasken Martineau Institute). September 2017.
+
+CPA Ontario's Networking Breakfast Series: Blockchain and Cryptofinance (link)  (September 2017)
+
+"Initial Coin Offerings, Venture Capital and the Digital Token Economy". Blockchain, FinTech and the New Canadian Industrial Revolution | Elevate Toronto. (link) (September 2017)  
+
+"Blockchain and The Enterprise". Panel Moderator. (link) Toronto. OneEleven. August 2017.
+
+"ICOs and Other Hot Things in Digital Currencies", Fintech Canada Conference (link) (August 2017)
+
+"ICOs and Digital Cryptocurrencies", Blockchain Canada & York Blockchain Hub Meetup including (link). (July 2017)  
+
+"Can Blockchain De-Risk the Bank?". Empire Startups Fintech Conference Toronto (link). June 2017
+
+"Blockchain Across Borders".  Canada-Chinese Finance Association (link). June 2017
+
+"Welcome to the Future: Introducing Insurance to Blockchain". Insurance Analytics Canada Summit (link). June 2017
+
+"Blockchain Breakfast" Panel Moderator, IdentityNorth.ca . June 2017
+
+"Blockchain: A Global Affair" Presentation.  Government of Canada Global Affairs. June 2017
+
+ESTMA (Extractive Sector Transparency Measures Act) Program Technology Feasibility Assessment“; Natural Resources Canada. April 2017
+
+"Initial Coin Offerings". Blockchain Canada Meetup. April 2017
+
+"Initial Coin Offerings: The Future for Online Investing or Regulatory Crisis?“; National CrowdFinance Canada Summit 2017 (Slideshare)
+
+2016
+
+"Blockchain Basics and Disruptive Potential". MacKay CEO Forums, Toronto Chapter.
+
+Keynote: "The Global Blockchain Landscape (Transforming Finance and Beyond...)". The Blockchain Technology Conference. University of Waterloo Centre for Information Integrity and Information Systems Assurance (UWCISA)
+
+Blockchain Presentation: "Hot Technologies Panel", CIO Canada Summit 2016 (link)
+
+"Technological Disruption of Capital Markets and Reporting? An Introduction to Blockchain" (link) CPA Canada.
+
+"Blockchain 201: Tokens (aka 'Digital Currency')". Blockchain Canada Meetup. October 11, 2016
+
+Meeting Organizer. State of Blockchain Canada. Blockchain Canada Meetup. September 2016.
+
+Meeting Organizer. State of Blockchain Canada. Blockchain Canada Meetup. August 2016.
+
+"Ethereum in Action Series". Blockchain Hackathon Organizer, Judge. Blockchain Canada. July 2016.
+
+"Blockchain Economy". Meeting Organizer. State of Blockchain Canada. Blockchain Canada Meetup. July 2016.
+
+Presenter/Facilitator. Public Service Blockchain 101. Blockchain Canada at Innovation, Science, and Economic Development Canada. Government of Canada.
+
+"Accounting for Blockchain Tokens." Speaker. Blockchain Training Conference June 2016. (link) 
+
+## 2015
+
+9th Biennial Research Symposium Keynote: Blockchain Revolution – Where Can We Go From Here? | University of Waterloo Centre for Information Integrity and Information Systems Assurance (UWCISA) 
+
+## 2014
+
+BCBS-239 (Risk Data Aggregation and Risk Reporting) Scotiabank Representative. Canadian Bankers Association.
+
+## 2010 - 2013
+
+Chair, Scotiabank Non-retail Data Governance Council. Enterprise Data Management Design.  
+
+Enterprise Business Intelligence Centre of Excellence Design Blueprint. Big Data and Analytics Development. Daily Risk Aggregator and Risk Data Aggregation Presentation to Scotiabank Board of Directors. 
+
+## Articles, Publications, Blog Posts
+
+The World is Your Think Tank - Transforming global idea flow into cash flow for a competitive advantage. Award Winning Innovation Paper - Deloitte Strategy and Operations Management Consulting Practice. 2008.
+
+The CFO as Strategist and Catalyst in Building a High-Performance Culture, Ivey Business Journal, November/December 2007.
+
+
+
+Medium Blog (https://medium.com/@alanwunsche)
+
+Rise of the Crypto-Accredited Investor. August 2017
+
+ICO Rounds : Cryptocapital and The Great Governance Challenge of 2017. July 2017
+
+The TokenFunder Project: Initial Token Offerings as a revolutionary equity crowdfunding platform on the blockchain. March 2017.
+
+Blockchain Crowdfunding: Moving beyond “DAO” to “CODE” with the SNGLS “ICO”. October 2016.
+
+
+
+Algonomic Blog (2015 - Present): http://algonomic.com/blog
+
+Blockchain Crowdfunding: Moving beyond “DAO” to “CODE” with the SNGLS “ICO” (link)
+
+The DAO – Innovating Global Decentralized Governance (link)
+
+The DAO Raises over $US 43M for Ethereum Fund (link)
+
+The DAO – A Global Ethereum Venture Fund Launches (link)
+
+2016: The Blockchain Awakens (link)
+
+Blockchain 2015: Video Summary (link)
+
+"@Lessig Keynote: Deja vu all over again (#BlockchainSYD)" (video link)
+
+ÐΞVCON1 : Ethereum Developer Conference (Nov. 9-13, 2015) (link)
+
+Gartner: CIOs Need To Welcome Age Of The Algorithm (link)
+
+Blockchain Revolution – Where Can We Go From Here? (link)
+
+WEF/Deloitte Report Showcases Disruptive FinTech Innovation (link)
+
+Why Banks Need to Embrace the Opportunity in Disruptive New FinTech Code (link)
+
+Why The “Always On Customer Brain” is Big Data in Action (link)
+
+How IBM Disrupted Google With “News as a Service” (link)
+
+FinTech Startups: Unbundling Wells Fargo, Citi and Bank of America (link)
+
+Amazon’s Cloud (Profitably!) Power’s Major Brands (link)
+
+Watch the Cloud for Next Generation Analytics (link)
+
+How Square Marketing Delivers Customer Analytics and Powers Customer Growth (link)
+
+Why your CDO’s Business Intelligence Roadmap Needs an Enterprise Decision Inventory (link)
+
+Data is renewable fuel. Decisions are the engine (link)
+
+Rebranding Business Intelligence as Decision Intelligence (link)
+
+Google’s Gmail to Enter $425B Bill Payments Space (link)
+
+Why Your New Chief Data Officer Should be the Chief Data Monetization Officer (link)
+
+IBM Watson’s Cognitive Cloud Computing Ready to Help Lawyers (link)
+
+
+
+Vital Signs Management Innovation Blog (2007-2011): http://blog.alanwunsche.com 
+
+Mobile Payments Data Race Heats Up (link)
+
+Is Square the Bank of the Future? (link)
+
+Vital Signs: BCG's Measuring Innovation 2007 Survey (link)
+
+
+
+Author/Researcher. Value Measurement and Reporting Collaborative. Canadian Institute of Chartered Accountants. 2002-2003.
