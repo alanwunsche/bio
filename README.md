@@ -22,6 +22,18 @@ Alan is a leading blockchain / fintech expert. Alan has hands-on finance and tec
 
 Blockchain/Fintech Expert ▪ Transformation Leader & Innovation Evangelist with SaaS/Startup Entrepreneurial Experience ▪ Previously PwC, Deloitte Consulting ▪ Enterprise Data Management Executive, pioneered Data Governance Office and Business Intelligence Center of Excellence in Global Risk Management of Scotiabank.
 
+## Roles
+
+CEO, Co-Founder, Chief Token Officer, [TokenFunder](https://www.TokenFunder.com)
+
+Canadian Chair, Standard Council of Canada ISO/TC307 Blockchain Standards Committee
+
+Chair, Co-Founder, [Blockchain Canada](https://www.blockchaincanada.org)
+
+Vice-President, Credit Information Sytems, Global Risk Management, Scotiabank
+
+
+
 ## In the News
 In the News:
 
