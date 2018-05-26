@@ -1,11 +1,16 @@
 # Alan A. Wunsche, MBA, CPA, CA, BSc, CBP
 
 CEO & Chief Token Officer, Founder, TokenFunder - "Building a Regulated CryptoFinance Ecosystem in the New World of Digital Finance"
-[Alan@TokenFunder.com](mailto:alan@tokenfunder.com) PGP| [LinkedIn](https://LinkedIn.com/in/alanwunsche | Twitter: [@alanwunsche](https://twitter.com/alanwunsche
+
+[Alan@TokenFunder.com](mailto:alan@tokenfunder.com) | [PGP Key](https://github.com/alanwunsche/pgp/blob/master/alan%40tokenfunder.com)
+
+[LinkedIn](https://LinkedIn.com/in/alanwunsche
+
+Twitter: [@alanwunsche](https://twitter.com/alanwunsche
 
 ## Intro
 
-Alan is CEO & Chief Token Officer of TokenFunder, and Chair & Co-Founder of Blockchain Canada.  Alan is a finance technologist focused on new blockchain business models and the disruptive impacts of blockchain on global wealth distribution and innovation. He brings hands-on technology experience as a finance and risk transformation executive at a global bank (Scotiabank), management consulting (Deloitte, PwC), and startups.
+Alan is CEO & Chief Token Officer of [TokenFunder](https://www.TokenFunder.com), and Chair & Co-Founder of [Blockchain Canada](http://www.BlockchainCanada.org).  Alan is a finance technologist focused on new blockchain business models and the disruptive impacts of blockchain on global wealth distribution and innovation. He brings hands-on technology experience as a finance and risk transformation executive at a global bank (Scotiabank), management consulting (Deloitte, PwC), and startups.
 
 ## Full Speaker Bio (Full PDF)
 
