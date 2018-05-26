@@ -23,6 +23,8 @@ Blockchain/Fintech Expert ▪ Transformation Leader & Innovation Evangelist with
 ## In the News
 In the News:
 
+[CPA Ontario : Navigating the Brave New World of Cryptocurrency and ICOs](https://www.cpaontario.ca/stewardship-of-the-profession/insight-research/thought-leadership/navigating-the-brave-new-world-of-cryptocurrency-and-icos)
+
 Bank of Canada releases paper on merits of creating digital currency. Globe and Mail. November 30, 2017.
 
 Bank of Canada releases white paper on merits of creating digital currency. Financial Post. November 30, 2017.
