@@ -2,7 +2,7 @@
 
 ![AAW](https://github.com/alanwunsche/bio/blob/master/alanwunsche-200.jpg)
 
-CEO & Chief Token Officer, Founder, TokenFunder - "Building a Regulated CryptoFinance Ecosystem in the New World of Digital Finance"
+CEO & Chief Token Officer, Co-Founder, [TokenFunder](https://www.TokenFunder.com) - "Building a Regulated CryptoFinance Ecosystem in the New World of Digital Finance"
 
 [Alan@TokenFunder.com](mailto:alan@tokenfunder.com) | [PGP Key](https://github.com/alanwunsche/pgp/blob/master/alan%40tokenfunder.com)
 
