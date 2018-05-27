@@ -68,18 +68,17 @@ Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the C
 ***  [Contact Alan Wunsche](mailto:alan@tokenfunder.com) to speak about cryptofinance and blockchain at your next event ***
 
 
-"Bitcoin, Ethereum, Blockchain: 2017 Recap and What To Expect in 2018". (link). OMERS. Toronto. December 2017
+["Bitcoin, Ethereum, Blockchain: 2017 Recap and What To Expect in 2018"](https://www.eventbrite.com/e/bitcoin-ethereum-blockchain-2017-recap-and-what-to-expect-in-2018-tickets-41095059429). OMERS. Toronto. December 2017
 
-"BLOCKCHAIN: WHAT IT IS AND WHY IT MATTERS" (link). AmCham Canada (The American Chamber of Commerce in Canada). Toronto. December 2017. 
+["BLOCKCHAIN: WHAT IT IS AND WHY IT MATTERS"](http://www.amchamcanada.ca/event/AmCham-Toronto-GTA-Event-Dec18-2017). AmCham Canada (The American Chamber of Commerce in Canada). Toronto. December 2017. 
 
+["Blockchain Impact" Conference](https://www.eventbrite.ca/e/blockchain-impact-bootcamp-event-tickets-37564867530#). Toronto. December 2017.
 
-"Blockchain Impact" Conference. (link). Toronto. December 2017.
+["VanFunding 2017"](http://vanfundingconf.ca/). NCFA. November 2017
 
-"VanFunding 2017" (link). NCFA. November 2017
+["How Blockchain will Revolutionize Online Ads"](http://datamarketing.ca/?utm_source=Aug-more-speakers). Data Marketing Toronto. November 2017.
 
-"How Blockchain will Revolutionize Online Ads" (link). Data Marketing Toronto. November 2017.
-
-"New Frontiers in Capital Innovation – Initial Coin Offerings (ICOs)" (link). NCFA. November 2017.
+["New Frontiers in Capital Innovation – Initial Coin Offerings (ICOs)"](http://ncfacanada.org/nov-16-toronto-event-save-the-date-new-frontier-in-capital-innovation-icos/). NCFA. November 2017.
 
 "The Potential of Blockchain and Fintech for Businesses". (link) Economic Club. November 2017.
 
