@@ -22,7 +22,7 @@ Alan is a leading blockchain / fintech expert. Alan has hands-on finance and tec
 
 Blockchain/Fintech Expert ▪ Transformation Leader & Innovation Evangelist with SaaS/Startup Entrepreneurial Experience ▪ Previously PwC, Deloitte Consulting ▪ Enterprise Data Management Executive, pioneered Data Governance Office and Business Intelligence Center of Excellence in Global Risk Management of Scotiabank.
 
-## ProfessionalRoles
+## Professional Roles
 
 CEO, Co-Founder, Chief Token Officer, [TokenFunder](https://www.TokenFunder.com) (2016 - present)
 
@@ -37,11 +37,10 @@ CEO, Leading Knowledge Ltd. Management consulting and product development servic
 Vice-President, Credit Information Sytems, Global Risk Management, Scotiabank 
 
 
-
 ## In the News
 
 
-[CPA Ontario : Navigating the Brave New World of Cryptocurrency and ICOs](https://www.cpaontario.ca/stewardship-of-the-profession/insight-research/thought-leadership/navigating-the-brave-new-world-of-cryptocurrency-and-icos)
+[CPA Ontario : Navigating the Brave New World of Cryptocurrency and ICOs](https://www.cpaontario.ca/stewardship-of-the-profession/insight-research/thought-leadership/navigating-the-brave-new-world-of-cryptocurrency-and-icos). CPA Ontario Thought Leadership Series. May 2018.
 
 [TokenFunder Launches Canada’s First Regulated Security Token on the Ethereum Blockchain](https://tokenfunder.com/tokenfunder-launches-canadas-first-regulated-security-token-on-ethereum-blockchain/) May 2018.
 
@@ -66,8 +65,7 @@ Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the C
 
 ## Presentations, Keynotes, Panels, Reports:
 
-***  Contact Alan Wunsche to speak about cryptofinance and blockchain at your next event ***
-
+***  [Contact Alan Wunsche](mailto:alan@tokenfunder.com) to speak about cryptofinance and blockchain at your next event ***
 
 
 "Bitcoin, Ethereum, Blockchain: 2017 Recap and What To Expect in 2018". (link). OMERS. Toronto. December 2017
