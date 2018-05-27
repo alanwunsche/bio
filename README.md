@@ -32,7 +32,7 @@ Chair, Co-Founder, [Blockchain Canada](https://www.blockchaincanada.org) "Connec
 
 Member, CPA (Chartered Professional Accountants) Canada Audit Innovation Committee (2016 - present)
 
-CEO, Leading Knowledge Ltd. Management consulting and product development services. (2001 - present)
+CEO, [Leading Knowledge Ltd.](http://www.leadingknowledge.com) Management consulting and product development services. (2001 - present)
 
 Vice-President, Credit Information Sytems, Global Risk Management, Scotiabank 
 
