@@ -22,7 +22,7 @@ Alan is a leading blockchain / fintech expert. Alan has hands-on finance and tec
 
 Blockchain/Fintech Expert ▪ Transformation Leader & Innovation Evangelist with SaaS/Startup Entrepreneurial Experience ▪ Previously PwC, Deloitte Consulting ▪ Enterprise Data Management Executive, pioneered Data Governance Office and Business Intelligence Center of Excellence in Global Risk Management of Scotiabank.
 
-## Roles
+## ProfessionalRoles
 
 CEO, Co-Founder, Chief Token Officer, [TokenFunder](https://www.TokenFunder.com) (2016 - present)
 
@@ -45,17 +45,17 @@ Vice-President, Credit Information Sytems, Global Risk Management, Scotiabank
 
 [TokenFunder Launches Canada’s First Regulated Security Token on the Ethereum Blockchain](https://tokenfunder.com/tokenfunder-launches-canadas-first-regulated-security-token-on-ethereum-blockchain/) May 2018.
 
-Bank of Canada releases paper on merits of creating digital currency. Globe and Mail. November 30, 2017.
+[Bank of Canada releases paper on merits of creating digital currency](https://www.theglobeandmail.com/report-on-business/economy/bank-of-canada-releases-white-paper-on-merits-of-creating-digital-currency/article37138388/). Globe and Mail. November 30, 2017.
 
-Bank of Canada releases white paper on merits of creating digital currency. Financial Post. November 30, 2017.
+[Bank of Canada releases white paper on merits of creating digital currency](http://business.financialpost.com/news/economy/bank-of-canada-releases-white-paper-on-merits-of-creating-digital-currency-2). Financial Post. November 30, 2017.
 
-"BNN Interview: "All traditional institutions will use cryptocurrencies in the future". October 30, 2017.
+[BNN Interview: "All traditional institutions will use cryptocurrencies in the future"](http://www.bnn.ca/video/all-traditional-institutions-will-use-cryptocurrencies-in-the-future-tokenfunder-ceo~1245310). October 30, 2017.
 
-OSC Invites OSC Invites TokenFunder to Play in the CSA Sandbox. Lexology. October 26 2017.
+[OSC Invites OSC Invites TokenFunder to Play in the CSA Sandbox](https://www.lexology.com/library/detail.aspx?g=4b1bc43e-5c77-4b51-9644-2275256a9c11). Lexology. October 26 2017.
 
-"Ontario’s first regulated token offering given go-ahead". Globe and Mail. October 23, 2017
+["Ontario’s first regulated token offering given go-ahead"](https://beta.theglobeandmail.com/report-on-business/ontarios-first-regulated-token-offering-given-go-ahead/article36697205/). Globe and Mail. October 23, 2017
 
-"Beyond cryptocurrency: There are new blockchain opportunities for SMBs", Financial Post, September 19, 2017
+["Beyond cryptocurrency: There are new blockchain opportunities for SMBs"](http://business.financialpost.com/entrepreneur/beyond-cryptocurrency-there-are-new-blockchain-opportunities-for-smbs), Financial Post, September 19, 2017
 
 
 ## Professional Accomplishments
