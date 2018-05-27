@@ -80,32 +80,33 @@ Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the C
 
 ["New Frontiers in Capital Innovation – Initial Coin Offerings (ICOs)"](http://ncfacanada.org/nov-16-toronto-event-save-the-date-new-frontier-in-capital-innovation-icos/). NCFA. November 2017.
 
-"The Potential of Blockchain and Fintech for Businesses". (link) Economic Club. November 2017.
+["The Potential of Blockchain and Fintech for Businesses"](http://economicclub.ca/events/display/-the-potential-of-blockchain-and-fintech-for-businesses-) Economic Club. November 2017.
 
-"Money Laundering, Cryptocurrencies & Cyber-Security” Conference" (link). Mackenzie Institute. November 2017.
+["Money Laundering, Cryptocurrencies & Cyber-Security” Conference"](http://mackenzieinstitute.com/november-16-2017-money-laundering-cryptocurrencies-cyber-security-conference/). Mackenzie Institute. November 2017.
 
-"Blockchain Startup Funding - What are the Options?". (link).  The Blockchain Hub (York University). November 2017.
+["Blockchain Startup Funding - What are the Options?"](http://theblockchainhub.com/events/2017/10/22/blockchain-start-up-funding-what-are-the-options).  The Blockchain Hub (York University). November 2017.
 
-"Blockchains, Smart Contracts and the Law". (link) Toronto. Osgoode Law. November 2017.
+["Blockchains, Smart Contracts and the Law"](http://www.osgoodepd.ca/upcoming_programs/blockchain-smart-contracts-and-law/) Toronto. Osgoode Law. November 2017.
 
-"Capital 2017 Connection" (link). Capital Connection. Canada’s Largest M&A and PE Conference. November 2017.
+["Capital 2017 Connection"](http://acgcapitalconnection.ca/). Capital Connection. Canada’s Largest M&A and PE Conference. November 2017.
 
-"Blockchain, Cryptocurrency and ICOs: What’s It All About?" (link). Fasken Martineau. November 2017. 
+["Blockchain, Cryptocurrency and ICOs: What’s It All About?"](http://www.fasken.com/blockchain-cryptocurrency-icos/). Fasken Martineau. November 2017. 
 
-"Blockchain and Emerging Virtual Currencies: Understanding the Challenges, Opportunities and Risks". ACAMS 5th Annual AML & Financial Crime Conference. (link) Toronto, Canada. (November 2017)
-UWCISA 10th Biennial Symposium. University of Waterloo Centre for Information Integrity and Information Systems Assurance. (link) October 2017.
+["Blockchain and Emerging Virtual Currencies: Understanding the Challenges, Opportunities and Risks". ACAMS 5th Annual AML & Financial Crime Conference.](http://www.acamsconferences.org/canada/) Toronto, Canada. (November 2017)
 
-TokenFunder at Startup Pitch Competition. (link) Las Vegas. October 2017.
+[UWCISA 10th Biennial Symposium. University of Waterloo Centre for Information Integrity and Information Systems Assurance.](https://uwaterloo.ca/uwaterloo-centre-for-information-system-assurance/events/10th-biennial-symposium-registration/uwcisa-10th-biennial-symposium-registration) October 2017.
 
-SingularityU Canada Summit - Toronto Satellite Event (link).  October 2017
+[TokenFunder at Money 20/20 Startup Pitch Competition.](https://www.money2020.com) Las Vegas. October 2017.
 
-Blockchain Legal Breakfast: A Cryptocurrency Funding Revolution. (link). Start-up Group Seminar (Fasken Martineau Institute). September 2017.
+[SingularityU Canada Summit - Toronto Satellite Event](http://singularityucanadasummit.org/summit/satellite-events/toronto-mars-uoft/).  October 2017
 
-CPA Ontario's Networking Breakfast Series: Blockchain and Cryptofinance (link)  (September 2017)
+[Blockchain Legal Breakfast: A Cryptocurrency Funding Revolution.](http://www.fasken.com/en/blockchain-legal-breakfast-2017/). Start-up Group Seminar (Fasken Martineau Institute). September 2017.
 
-"Initial Coin Offerings, Venture Capital and the Digital Token Economy". Blockchain, FinTech and the New Canadian Industrial Revolution | Elevate Toronto. (link) (September 2017)  
+[CPA Ontario's Networking Breakfast Series: Blockchain and Cryptofinance](https://portal.cpaontario.ca/Pages/en_US/Forms/Public/Events/EventDescription.aspx?eid=c17fbc46-f75c-e711-b78a-0050568e53eb&utm_source=informz&utm_medium=email&utm_campaign=spotlight%2Daug2&_zs=5ArbM1&_zl=kw6k)  (September 2017)
 
-"Blockchain and The Enterprise". Panel Moderator. (link) Toronto. OneEleven. August 2017.
+["Initial Coin Offerings, Venture Capital and the Digital Token Economy". Blockchain, FinTech and the New Canadian Industrial Revolution | Elevate Toronto.](http://elevatetoronto.com/event/elevate-fintech-blockchain/) (September 2017)  
+
+["Blockchain and The Enterprise". Panel Moderator.](http://www.fintechcanada.com/) Toronto. OneEleven. August 2017.
 
 "ICOs and Other Hot Things in Digital Currencies", Fintech Canada Conference (link) (August 2017)
 
