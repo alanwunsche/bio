@@ -132,7 +132,7 @@ ESTMA (Extractive Sector Transparency Measures Act) Program Technology Feasibili
 
 "Blockchain Basics and Disruptive Potential". MacKay CEO Forums, Toronto Chapter.
 
-Keynote: "The Global Blockchain Landscape (Transforming Finance and Beyond...)". The Blockchain Technology Conference. University of Waterloo Centre for Information Integrity and Information Systems Assurance (UWCISA)
+Keynote: ["The Global Blockchain Landscape (Transforming Finance and Beyond...)"](http://jebcl.com/symposium/wp-content/uploads/2016/10/Wunsche.pdf). The Blockchain Technology Conference. University of Waterloo Centre for Information Integrity and Information Systems Assurance (UWCISA)
 
 Blockchain Presentation: "Hot Technologies Panel", CIO Canada Summit 2016 (link)
 
@@ -154,7 +154,7 @@ Presenter/Facilitator. Public Service Blockchain 101. Blockchain Canada at Innov
 
 ## 2015
 
-9th Biennial Research Symposium Keynote: Blockchain Revolution – Where Can We Go From Here? | University of Waterloo Centre for Information Integrity and Information Systems Assurance (UWCISA) 
+9th Biennial Research Symposium Keynote: [Blockchain Revolution – Where Can We Go From Here?](http://www.algonomic.com/blog/?p=382) | [University of Waterloo Centre for Information Integrity and Information Systems Assurance (UWCISA)](http://accounting.uwaterloo.ca/uwcisa/) 
 
 ## 2014
 
@@ -168,25 +168,25 @@ Enterprise Business Intelligence Centre of Excellence Design Blueprint. Big Data
 
 ## Articles, Publications, Blog Posts
 
-The World is Your Think Tank - Transforming global idea flow into cash flow for a competitive advantage. Award Winning Innovation Paper - Deloitte Strategy and Operations Management Consulting Practice. 2008.
+[The World is Your Think Tank - Transforming global idea flow into cash flow for a competitive advantage](https://github.com/alanwunsche/bio/blob/master/AlanWunsche_Theworldisyourthinktank_sept08.pdf). Award Winning Innovation Paper - Deloitte Strategy and Operations Management Consulting Practice. 2008.
 
-The CFO as Strategist and Catalyst in Building a High-Performance Culture, Ivey Business Journal, November/December 2007.
-
-
-
-Medium Blog (https://medium.com/@alanwunsche)
-
-Rise of the Crypto-Accredited Investor. August 2017
-
-ICO Rounds : Cryptocapital and The Great Governance Challenge of 2017. July 2017
-
-The TokenFunder Project: Initial Token Offerings as a revolutionary equity crowdfunding platform on the blockchain. March 2017.
-
-Blockchain Crowdfunding: Moving beyond “DAO” to “CODE” with the SNGLS “ICO”. October 2016.
+[The CFO as Strategist and Catalyst in Building a High-Performance Culture](https://iveybusinessjournal.com/publication/the-cfo-as-strategist-and-catalyst-in-building-a-high-performance-culture/), Ivey Business Journal, November/December 2007.
 
 
 
-Algonomic Blog (2015 - Present): http://algonomic.com/blog
+*Medium Blog* (https://medium.com/@alanwunsche)
+
+[Rise of the Crypto-Accredited Investor](https://medium.com/@AlanWunsche/rise-of-the-crypto-accredited-investor-ddf3ac02e0f). August 2017
+
+[ICO Rounds : Cryptocapital and The Great Governance Challenge of 2017](https://medium.com/@AlanWunsche/ico-rounds-cryptocapital-and-the-great-governance-challenge-of-2017-8c8bb8bc5cc7). July 2017
+
+[The TokenFunder Project: Initial Token Offerings as a revolutionary equity crowdfunding platform on the blockchain](https://medium.com/@AlanWunsche/the-tokenfunder-project-initial-token-offerings-as-a-revolutionary-equity-crowdfunding-platform-on-55839ea340c7). March 2017.
+
+[Blockchain Crowdfunding: Moving beyond “DAO” to “CODE” with the SNGLS “ICO”](https://medium.com/@AlanWunsche/blockchain-crowdfunding-moving-beyond-dao-to-code-with-the-sngls-ico-567cdd5326e0). October 2016.
+
+
+
+*Algonomic Blog* (2015 - Present): http://algonomic.com/blog
 
 Blockchain Crowdfunding: Moving beyond “DAO” to “CODE” with the SNGLS “ICO” (link)
 
