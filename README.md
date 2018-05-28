@@ -61,7 +61,7 @@ Senior Accountant, Principal Consultant. (Strategy, Systems Implementations, Bus
 
 [BNN Interview: "All traditional institutions will use cryptocurrencies in the future"](http://www.bnn.ca/video/all-traditional-institutions-will-use-cryptocurrencies-in-the-future-tokenfunder-ceo~1245310). October 30, 2017.
 
-[OSC Invites OSC Invites TokenFunder to Play in the CSA Sandbox](https://www.lexology.com/library/detail.aspx?g=4b1bc43e-5c77-4b51-9644-2275256a9c11). Lexology. October 26 2017.
+[OSC Invites OSC Invites TokenFunder to Play in the CSA Sandbox](https://www.lexology.com/library/detail.aspx?g=4b1bc43e-5c77-4b51-9644-2275256a9c11). Lexology. October 26, 2017.
 
 ["Ontario’s first regulated token offering given go-ahead"](https://beta.theglobeandmail.com/report-on-business/ontarios-first-regulated-token-offering-given-go-ahead/article36697205/). Globe and Mail. October 23, 2017
 
@@ -84,7 +84,25 @@ Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the C
 
 [Blockchain Summit 2018: Seizing the Opportunity of “The Internet of Value”](http://www.conferenceboard.ca/conf/blockchain/2018-archive/venue.aspx). Conference Board of Canada. Toronto. Panel Presenter. April 2018.
 
+Blockchain Economic Event. Blockchain Regulatory Issues Panelist. FintechCanada. Toronto. April 2018.
+
+Toronto Cryptocurrency Conference. TorontoStarts.com  April 2018.
+
+[Canadian Fintech Summit 2.0](https://www.bdc.ca/en/fintech/pages/default.aspx). Cryptocurrency and Regulatory Panelist. Business Development Bank of Canada. April 2018.
+
+7th Annual Technology Law Innovation Summit. Cryptocurrency and Blockchain Tokens Presentation. Toronto. McCarthy Tetrault. April 2018.
+
+Discovering Value in the Tokenized Economy.  TokenFunder.com Event. April 2018.
+
+Cryptochicks Blockchain Hackathon.  Blockchain Regulatory Panel. Toronto. April 2018.
+
 [Evolution of a Global Token Economy](https://github.com/alanwunsche/bio/blob/master/presentations/AlanWunsche-FinTechTO-EvolutionofaGlobalTokenEconomy-March26%2C2018.pdf). FinTechTO. Toronto. March 2018.
+
+Bridging the Blockchain Regulatory Gap.  Blockchain Canada Event. Toronto. March 2018.
+
+InvestTO. Panelist: Cryptocurrency, Blockchain Tokens and Regulatory Event. Toronto. February 2018.
+
+[5th Annual CanTech Investment Conference](https://www.eventbrite.com/e/cantech-investment-conference-2018-tickets-31521045295#).  Blockchain Technology Panelist. Toronto. January 2018.
 
 ["Bitcoin, Ethereum, Blockchain: 2017 Recap and What To Expect in 2018"](https://www.eventbrite.com/e/bitcoin-ethereum-blockchain-2017-recap-and-what-to-expect-in-2018-tickets-41095059429). OMERS. Toronto. December 2017
 
