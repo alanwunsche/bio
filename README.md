@@ -256,3 +256,6 @@ Vital Signs: BCG's Measuring Innovation 2007 Survey (link)
 
 
 Author/Researcher. Value Measurement and Reporting Collaborative. Canadian Institute of Chartered Accountants. 2002-2003.
+
+![AAW](https://github.com/alanwunsche/bio/blob/master/Wunsche-ProfessionalSummary.png)
+
