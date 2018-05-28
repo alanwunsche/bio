@@ -224,63 +224,63 @@ Enterprise Business Intelligence Centre of Excellence Design Blueprint. Big Data
 
 *Algonomic Blog* (2015 - Present): http://algonomic.com/blog
 
-Blockchain Crowdfunding: Moving beyond “DAO” to “CODE” with the SNGLS “ICO” (link)
+Blockchain Crowdfunding: Moving beyond “DAO” to “CODE” with the SNGLS “ICO” [link](http://www.algonomic.com/blog/?p=539)
 
-The DAO – Innovating Global Decentralized Governance (link)
+The DAO – Innovating Global Decentralized Governance [link](http://www.algonomic.com/blog/?p=523)
 
-The DAO Raises over $US 43M for Ethereum Fund (link)
+The DAO Raises over $US 43M for Ethereum Fund [link](http://www.algonomic.com/blog/?p=476)
 
-The DAO – A Global Ethereum Venture Fund Launches (link)
+The DAO – A Global Ethereum Venture Fund Launches [link](http://www.algonomic.com/blog/?p=462)
 
-2016: The Blockchain Awakens (link)
+2016: The Blockchain Awakens [link](http://www.algonomic.com/blog/?p=428)
 
-Blockchain 2015: Video Summary (link)
+Blockchain 2015: Video Summary [link](http://www.algonomic.com/blog/?p=451)
 
-"@Lessig Keynote: Deja vu all over again (#BlockchainSYD)" (video link)
+"@Lessig Keynote: Deja vu all over again (#BlockchainSYD)" [link](http://www.algonomic.com/blog/?p=419)
 
-ÐΞVCON1 : Ethereum Developer Conference (Nov. 9-13, 2015) (link)
+ÐΞVCON1 : Ethereum Developer Conference (Nov. 9-13, 2015) [link](http://www.algonomic.com/blog/?p=387)
 
-Gartner: CIOs Need To Welcome Age Of The Algorithm (link)
+Gartner: CIOs Need To Welcome Age Of The Algorithm [link](http://www.algonomic.com/blog/?p=379)
 
-Blockchain Revolution – Where Can We Go From Here? (link)
+Blockchain Revolution – Where Can We Go From Here? [link](http://www.algonomic.com/blog/?p=382)
 
-WEF/Deloitte Report Showcases Disruptive FinTech Innovation (link)
+WEF/Deloitte Report Showcases Disruptive FinTech Innovation [link](http://www.algonomic.com/blog/?p=364)
 
-Why Banks Need to Embrace the Opportunity in Disruptive New FinTech Code (link)
+Why Banks Need to Embrace the Opportunity in Disruptive New FinTech Code [link](http://www.algonomic.com/blog/?p=293)
 
-Why The “Always On Customer Brain” is Big Data in Action (link)
+Why The “Always On Customer Brain” is Big Data in Action [link](http://www.algonomic.com/blog/?p=286)
 
-How IBM Disrupted Google With “News as a Service” (link)
+How IBM Disrupted Google With “News as a Service” [link](http://www.algonomic.com/blog/?p=259)
 
-FinTech Startups: Unbundling Wells Fargo, Citi and Bank of America (link)
+FinTech Startups: Unbundling Wells Fargo, Citi and Bank of America [link](http://www.algonomic.com/blog/?p=253)
 
-Amazon’s Cloud (Profitably!) Power’s Major Brands (link)
+Amazon’s Cloud (Profitably!) Power’s Major Brands [link](http://www.algonomic.com/blog/?p=166)
 
-Watch the Cloud for Next Generation Analytics (link)
+Watch the Cloud for Next Generation Analytics [link](http://www.algonomic.com/blog/?p=345)
 
-How Square Marketing Delivers Customer Analytics and Powers Customer Growth (link)
+How Square Marketing Delivers Customer Analytics and Powers Customer Growth [link](http://www.algonomic.com/blog/?p=203)
 
-Why your CDO’s Business Intelligence Roadmap Needs an Enterprise Decision Inventory (link)
+Why your CDO’s Business Intelligence Roadmap Needs an Enterprise Decision Inventory [link](http://www.algonomic.com/blog/?p=176)
 
-Data is renewable fuel. Decisions are the engine (link)
+Data is renewable fuel. Decisions are the engine [link](http://www.algonomic.com/blog/?p=61)
 
-Rebranding Business Intelligence as Decision Intelligence (link)
+Rebranding Business Intelligence as Decision Intelligence [link](http://www.algonomic.com/blog/?p=100)
 
-Google’s Gmail to Enter $425B Bill Payments Space (link)
+Google’s Gmail to Enter $425B Bill Payments Space [link](http://www.algonomic.com/blog/?p=91)
 
-Why Your New Chief Data Officer Should be the Chief Data Monetization Officer (link)
+Why Your New Chief Data Officer Should be the Chief Data Monetization Officer [link](http://www.algonomic.com/blog/?p=49)
 
-IBM Watson’s Cognitive Cloud Computing Ready to Help Lawyers (link)
+IBM Watson’s Cognitive Cloud Computing Ready to Help Lawyers [link](http://www.algonomic.com/blog/?p=27)
 
 
 
 Vital Signs Management Innovation Blog (2007-2011): http://blog.alanwunsche.com 
 
-Mobile Payments Data Race Heats Up (link)
+Mobile Payments Data Race Heats Up [link](http://blog.alanwunsche.com/2011/05/mobile-payments-data-race-heats-up.html)
 
-Is Square the Bank of the Future? (link)
+Is Square the Bank of the Future? [link](http://blog.alanwunsche.com/2010/04/is-square-bank-of-future.html)
 
-Vital Signs: BCG's Measuring Innovation 2007 Survey (link)
+Vital Signs: BCG's Measuring Innovation 2007 Survey [link](http://blog.alanwunsche.com/2008/04/vital-signs-bcgs-measuring-innovation.html)
 
 
 
