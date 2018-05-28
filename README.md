@@ -111,13 +111,13 @@ InvestTO. Panelist: Cryptocurrency, Blockchain Tokens and Regulatory Event. Toro
 
 [5th Annual CanTech Investment Conference](https://www.eventbrite.com/e/cantech-investment-conference-2018-tickets-31521045295#).  Blockchain Technology Panelist. Toronto. January 2018.
 
-["Bitcoin, Ethereum, Blockchain: 2017 Recap and What To Expect in 2018"](https://www.eventbrite.com/e/bitcoin-ethereum-blockchain-2017-recap-and-what-to-expect-in-2018-tickets-41095059429). OMERS. Toronto. December 2017
+["Bitcoin, Ethereum, Blockchain: 2017 Recap and What To Expect in 2018"](https://www.eventbrite.com/e/bitcoin-ethereum-blockchain-2017-recap-and-what-to-expect-in-2018-tickets-41095059429). OMERS. Toronto. December 2017.
 
 ["BLOCKCHAIN: WHAT IT IS AND WHY IT MATTERS"](http://www.amchamcanada.ca/event/AmCham-Toronto-GTA-Event-Dec18-2017). AmCham Canada (The American Chamber of Commerce in Canada). Toronto. December 2017. 
 
 ["Blockchain Impact" Conference](https://www.eventbrite.ca/e/blockchain-impact-bootcamp-event-tickets-37564867530#). Toronto. December 2017.
 
-["VanFunding 2017"](http://vanfundingconf.ca/). NCFA. November 2017
+["VanFunding 2017"](http://vanfundingconf.ca/). NCFA. November 2017.
 
 ["How Blockchain will Revolutionize Online Ads"](http://datamarketing.ca/?utm_source=Aug-more-speakers). Data Marketing Toronto. November 2017.
 
@@ -135,41 +135,41 @@ InvestTO. Panelist: Cryptocurrency, Blockchain Tokens and Regulatory Event. Toro
 
 ["Blockchain, Cryptocurrency and ICOs: What’s It All About?"](http://www.fasken.com/blockchain-cryptocurrency-icos/). Fasken Martineau. November 2017. 
 
-["Blockchain and Emerging Virtual Currencies: Understanding the Challenges, Opportunities and Risks". ACAMS 5th Annual AML & Financial Crime Conference.](http://www.acamsconferences.org/canada/) Toronto, Canada. (November 2017)
+["Blockchain and Emerging Virtual Currencies: Understanding the Challenges, Opportunities and Risks". ACAMS 5th Annual AML & Financial Crime Conference.](http://www.acamsconferences.org/canada/) Toronto, Canada. November 2017.
 
 [UWCISA 10th Biennial Symposium. University of Waterloo Centre for Information Integrity and Information Systems Assurance.](https://uwaterloo.ca/uwaterloo-centre-for-information-system-assurance/events/10th-biennial-symposium-registration/uwcisa-10th-biennial-symposium-registration) October 2017.
 
 [TokenFunder at Money 20/20 Startup Pitch Competition.](https://www.money2020.com) Las Vegas. October 2017.
 
-[SingularityU Canada Summit - Toronto Satellite Event](http://singularityucanadasummit.org/summit/satellite-events/toronto-mars-uoft/).  October 2017
+[SingularityU Canada Summit - Toronto Satellite Event](http://singularityucanadasummit.org/summit/satellite-events/toronto-mars-uoft/).  October 2017.
 
 [Blockchain Legal Breakfast: A Cryptocurrency Funding Revolution.](http://www.fasken.com/en/blockchain-legal-breakfast-2017/). Start-up Group Seminar (Fasken Martineau Institute). September 2017.
 
-[CPA Ontario's Networking Breakfast Series: Blockchain and Cryptofinance](https://portal.cpaontario.ca/Pages/en_US/Forms/Public/Events/EventDescription.aspx?eid=c17fbc46-f75c-e711-b78a-0050568e53eb&utm_source=informz&utm_medium=email&utm_campaign=spotlight%2Daug2&_zs=5ArbM1&_zl=kw6k)  (September 2017)
+[CPA Ontario's Networking Breakfast Series: Blockchain and Cryptofinance](https://portal.cpaontario.ca/Pages/en_US/Forms/Public/Events/EventDescription.aspx?eid=c17fbc46-f75c-e711-b78a-0050568e53eb&utm_source=informz&utm_medium=email&utm_campaign=spotlight%2Daug2&_zs=5ArbM1&_zl=kw6k)  . September 2017
 
-["Initial Coin Offerings, Venture Capital and the Digital Token Economy". Blockchain, FinTech and the New Canadian Industrial Revolution | Elevate Toronto.](http://elevatetoronto.com/event/elevate-fintech-blockchain/) (September 2017)  
+["Initial Coin Offerings, Venture Capital and the Digital Token Economy". Blockchain, FinTech and the New Canadian Industrial Revolution | Elevate Toronto.](http://elevatetoronto.com/event/elevate-fintech-blockchain/) . September 2017.  
 
 ["Blockchain and The Enterprise". Panel Moderator.](http://www.fintechcanada.com/) Toronto. OneEleven. August 2017.
 
-"ICOs and Other Hot Things in Digital Currencies", Fintech Canada Conference (link) (August 2017)
+"ICOs and Other Hot Things in Digital Currencies", Fintech Canada Conference [link](link) . August 2017.
 
-"ICOs and Digital Cryptocurrencies", Blockchain Canada & York Blockchain Hub Meetup including (link). (July 2017)  
+"ICOs and Digital Cryptocurrencies", Blockchain Canada & York Blockchain Hub Meetup including [link](link). July 2017.  
 
-"Can Blockchain De-Risk the Bank?". Empire Startups Fintech Conference Toronto (link). June 2017
+"Can Blockchain De-Risk the Bank?". Empire Startups Fintech Conference Toronto [link](link). June 2017.
 
-"Blockchain Across Borders".  Canada-Chinese Finance Association (link). June 2017
+"Blockchain Across Borders".  Canada-Chinese Finance Association [link](link). June 2017.
 
-"Welcome to the Future: Introducing Insurance to Blockchain". Insurance Analytics Canada Summit (link). June 2017
+"Welcome to the Future: Introducing Insurance to Blockchain". Insurance Analytics Canada Summit [link](link). June 2017.
 
-"Blockchain Breakfast" Panel Moderator, IdentityNorth.ca . June 2017
+"Blockchain Breakfast" Panel Moderator, IdentityNorth.ca . June 2017.
 
-"Blockchain: A Global Affair" Presentation.  Government of Canada Global Affairs. June 2017
+"Blockchain: A Global Affair" Presentation.  Government of Canada Global Affairs. June 2017.
 
-ESTMA (Extractive Sector Transparency Measures Act) Program Technology Feasibility Assessment“; Natural Resources Canada. April 2017
+ESTMA (Extractive Sector Transparency Measures Act) Program Technology Feasibility Assessment“; Natural Resources Canada. April 2017.
 
-"Initial Coin Offerings". Blockchain Canada Meetup. April 2017
+"Initial Coin Offerings". Blockchain Canada Meetup. April 2017.
 
-"Initial Coin Offerings: The Future for Online Investing or Regulatory Crisis?“; National CrowdFinance Canada Summit 2017 (Slideshare)
+"Initial Coin Offerings: The Future for Online Investing or Regulatory Crisis?“; National CrowdFinance Canada Summit 2017 [link](Slideshare)
 
 2016
 
@@ -177,9 +177,9 @@ ESTMA (Extractive Sector Transparency Measures Act) Program Technology Feasibili
 
 Keynote: ["The Global Blockchain Landscape (Transforming Finance and Beyond...)"](https://github.com/alanwunsche/bio/blob/master/publications/TheGlobalBlockchainLandscape(TransformingFinanceandBeyond)-Sept2016.pdf). The Blockchain Technology Conference. University of Waterloo Centre for Information Integrity and Information Systems Assurance (UWCISA)
 
-Blockchain Presentation: "Hot Technologies Panel", CIO Canada Summit 2016 (link)
+Blockchain Presentation: "Hot Technologies Panel", CIO Canada Summit 2016 [link](link)
 
-"Technological Disruption of Capital Markets and Reporting? An Introduction to Blockchain" (link) CPA Canada.
+"Technological Disruption of Capital Markets and Reporting? An Introduction to Blockchain" [link](link) CPA Canada.
 
 "Blockchain 201: Tokens (aka 'Digital Currency')". Blockchain Canada Meetup. October 11, 2016
 
@@ -193,7 +193,7 @@ Meeting Organizer. State of Blockchain Canada. Blockchain Canada Meetup. August 
 
 Presenter/Facilitator. Public Service Blockchain 101. Blockchain Canada at Innovation, Science, and Economic Development Canada. Government of Canada.
 
-"Accounting for Blockchain Tokens." Speaker. Blockchain Training Conference June 2016. (link) 
+"Accounting for Blockchain Tokens." Speaker. Blockchain Training Conference June 2016. [link](link) 
 
 ## 2015
 
