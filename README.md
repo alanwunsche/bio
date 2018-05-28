@@ -34,8 +34,19 @@ Member, CPA (Chartered Professional Accountants) Canada Audit Innovation Committ
 
 CEO, [Leading Knowledge Ltd.](http://www.leadingknowledge.com) Management consulting and product development services. (2001 - present)
 
-Vice-President, Credit Information Sytems, Global Risk Management, Scotiabank 
+Vice-President, Credit Information Sytems, Global Risk Management, Scotiabank (2010-2015)
 
+Member of Board of Directors, Treasurer, Chair Strategic Planning Committee. Toronto Childrens Chorus. 2001-2010.
+
+Senior Manager, Strategy and Operations Consulting. Finance Transformation and Performance Management. Deloitte. 2006-2009.
+
+Executive in Residence. Innovations Foundations Exceler@tor (Technology Incubator). University of Toronto. 2002-2003.
+
+Vice-President, itemus. Technology Startup Portfolio. Public Company. 2000-2001
+
+Co-Founder, Brainbid.com. 1999-2000.
+
+Senior Accountant, Principal Consultant. (Strategy, Systems Implementations, Business Intelligence, Finance Transformation).  PricewaterhouseCoopers (PwC) Canada Management Consulting. 1991-2000. 
 
 ## In the News
 
