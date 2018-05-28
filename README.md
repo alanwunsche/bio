@@ -179,8 +179,6 @@ Keynote: ["The Global Blockchain Landscape (Transforming Finance and Beyond...)"
 
 Blockchain Presentation: "Hot Technologies Panel", CIO Canada Summit 2016 [link](link)
 
-"Technological Disruption of Capital Markets and Reporting? An Introduction to Blockchain" -- [REPORT PDF](https://github.com/alanwunsche/bio/blob/master/publications/G10157-RG-Technological-Disruption-of-Capital-Markets-Reporting-Introduction-to-Blockchain-October-2016.pdf) CPA Canada.
-
 "Blockchain 201: Tokens (aka 'Digital Currency')". Blockchain Canada Meetup. October 11, 2016
 
 Meeting Organizer. State of Blockchain Canada. Blockchain Canada Meetup. September 2016.
@@ -210,6 +208,8 @@ Chair, Scotiabank Non-retail Data Governance Council. Enterprise Data Management
 Enterprise Business Intelligence Centre of Excellence Design Blueprint. Big Data and Analytics Development. Daily Risk Aggregator and Risk Data Aggregation Presentation to Scotiabank Board of Directors. 
 
 ## Articles, Publications, Blog Posts
+
+"Technological Disruption of Capital Markets and Reporting? An Introduction to Blockchain" -- [REPORT PDF](https://github.com/alanwunsche/bio/blob/master/publications/G10157-RG-Technological-Disruption-of-Capital-Markets-Reporting-Introduction-to-Blockchain-October-2016.pdf) CPA Canada. 2016.
 
 [The World is Your Think Tank - Transforming global idea flow into cash flow for a competitive advantage](https://github.com/alanwunsche/bio/blob/master/publications/AlanWunsche_Theworldisyourthinktank_sept08.pdf). Award Winning Innovation Paper - Deloitte Strategy and Operations Management Consulting Practice. 2008.
 
