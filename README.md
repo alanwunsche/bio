@@ -78,7 +78,7 @@ Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the C
 
 ***  [Contact Alan Wunsche](mailto:alan@tokenfunder.com) to speak about cryptofinance and blockchain at your next event ***
 
-[Speaker at AIDecentralized - Toronto Summit - May 2018](https://www.aidecentralized.com/aidecentralized-summit-toronto). [PDF](https://github.com/alanwunsche/bio/blob/master/presentations/AlanWunsche-AIDecentralized-May22%2C2018.pdf). May 2018.
+[Decentralization, Governance, Automation and the Future of Society. AIDecentralized - Toronto Summit - May 2018](https://www.aidecentralized.com/aidecentralized-summit-toronto). [PDF](https://github.com/alanwunsche/bio/blob/master/presentations/AlanWunsche-AIDecentralized-May22%2C2018.pdf). May 2018.
 
 [Blockchain Research Institute](https://www.blockchainresearchinstitute.org/) Regulatory Roundtable - Toronto. Contributor. May 2018.
 
