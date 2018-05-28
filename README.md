@@ -179,7 +179,7 @@ Keynote: ["The Global Blockchain Landscape (Transforming Finance and Beyond...)"
 
 Blockchain Presentation: "Hot Technologies Panel", CIO Canada Summit 2016 [link](link)
 
-"Technological Disruption of Capital Markets and Reporting? An Introduction to Blockchain" [link](link) CPA Canada.
+"Technological Disruption of Capital Markets and Reporting? An Introduction to Blockchain" [link](https://github.com/alanwunsche/bio/blob/master/publications/G10157-RG-Technological-Disruption-of-Capital-Markets-Reporting-Introduction-to-Blockchain-October-2016.pdf) CPA Canada.
 
 "Blockchain 201: Tokens (aka 'Digital Currency')". Blockchain Canada Meetup. October 11, 2016
 
