@@ -137,7 +137,7 @@ ESTMA (Extractive Sector Transparency Measures Act) Program Technology Feasibili
 
 "Blockchain Basics and Disruptive Potential". MacKay CEO Forums, Toronto Chapter.
 
-Keynote: ["The Global Blockchain Landscape (Transforming Finance and Beyond...)"](http://jebcl.com/symposium/wp-content/uploads/2016/10/Wunsche.pdf). The Blockchain Technology Conference. University of Waterloo Centre for Information Integrity and Information Systems Assurance (UWCISA)
+Keynote: ["The Global Blockchain Landscape (Transforming Finance and Beyond...)"](https://github.com/alanwunsche/bio/blob/master/publications/TheGlobalBlockchainLandscape(TransformingFinanceandBeyond)-Sept2016.pdf). The Blockchain Technology Conference. University of Waterloo Centre for Information Integrity and Information Systems Assurance (UWCISA)
 
 Blockchain Presentation: "Hot Technologies Panel", CIO Canada Summit 2016 (link)
 
@@ -173,7 +173,7 @@ Enterprise Business Intelligence Centre of Excellence Design Blueprint. Big Data
 
 ## Articles, Publications, Blog Posts
 
-[The World is Your Think Tank - Transforming global idea flow into cash flow for a competitive advantage](https://github.com/alanwunsche/bio/blob/master/AlanWunsche_Theworldisyourthinktank_sept08.pdf). Award Winning Innovation Paper - Deloitte Strategy and Operations Management Consulting Practice. 2008.
+[The World is Your Think Tank - Transforming global idea flow into cash flow for a competitive advantage](https://github.com/alanwunsche/bio/blob/master/publications/AlanWunsche_Theworldisyourthinktank_sept08.pdf). Award Winning Innovation Paper - Deloitte Strategy and Operations Management Consulting Practice. 2008.
 
 [The CFO as Strategist and Catalyst in Building a High-Performance Culture](https://iveybusinessjournal.com/publication/the-cfo-as-strategist-and-catalyst-in-building-a-high-performance-culture/), Ivey Business Journal, November/December 2007.
 
