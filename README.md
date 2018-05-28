@@ -6,7 +6,7 @@ CEO & Chief Token Officer, Co-Founder, [TokenFunder](https://www.TokenFunder.com
 
 [Alan@TokenFunder.com](mailto:alan@tokenfunder.com) | [PGP Key](https://github.com/alanwunsche/pgp/blob/master/alan%40tokenfunder.com)
 
-[LinkedIn](https://LinkedIn.com/in/alanwunsche)
+[LinkedIn : https://LinkedIn.com/in/alanwunsche](https://LinkedIn.com/in/alanwunsche)
 
 Twitter: [@alanwunsche](https://twitter.com/alanwunsche)
 
