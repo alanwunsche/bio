@@ -12,7 +12,7 @@ Twitter: [@alanwunsche](https://twitter.com/alanwunsche) | Medium:  [@alanwunsch
 
 ## Intro
 
-Alan is CEO & Chief Token Officer of [TokenFunder](https://www.TokenFunder.com), and Chair & Co-Founder of [Blockchain Canada](http://www.BlockchainCanada.org).  Alan is a finance technologist focused on new blockchain business models and the disruptive impacts of blockchain on global wealth distribution and innovation. He brings hands-on technology experience as a finance and risk transformation executive at a global bank (Scotiabank), management consulting (Deloitte, PwC), and startups.
+Alan is CEO & Chief Token Officer of [TokenFunder](https://www.TokenFunder.com), and Chair & Co-Founder of [Blockchain Canada](http://www.BlockchainCanada.org). He is a finance and blockchain technology expert focused on the disruptive impacts of blockchain and cryptocurrencies on capital markets and global wealth distribution. Alan recently led TokenFunder's launch of Canada's first regulatory-compliant security token offering on the Ethereum public blockchain. Alan is a Chartered Professional Accountant with hands-on technology experience leading finance and risk transformation programs as an executive at a global bank (Scotiabank), management consulting (Deloitte, PwC), and startups.
 
 ![AAW](https://github.com/alanwunsche/bio/blob/master/Wunsche-ProfessionalSummary.png)
 
@@ -87,7 +87,7 @@ Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the C
 
 [Navigating the Tides of Change - Panel 3 - Blockchain & Cryptocurrency: Demystified](https://www.acg.org/toronto/events/lunch-panel-series-navigating-tides-change-panel-3-blockchain-cryptocurrency-0). Lunch Panel Series (National Club). Association for Corporate Growth (ACG). Toronto. June 2018.  
 
-IAPP Knowledgenet Session - Blockchain and Privacy. International Association of Privacy Professionals (IAPP). Baker McKenzie Law. Toronto. June 2018.
+IAPP Knowledgenet Session - Blockchain and Privacy. International Association of Privacy Professionals (IAPP). [Baker McKenzie Law](https://www.bakermckenzie.com/en/locations/north-america/canada). Toronto. June 2018.
 
 [Decentralization, Governance, Automation and the Future of Society. AIDecentralized - Toronto Summit - May 2018](https://www.aidecentralized.com/aidecentralized-summit-toronto). [PDF](https://github.com/alanwunsche/bio/blob/master/presentations/AlanWunsche-AIDecentralized-May22%2C2018.pdf). May 2018.
 
