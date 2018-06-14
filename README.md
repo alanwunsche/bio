@@ -85,7 +85,7 @@ Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the C
 
 ***  [Contact Alan Wunsche](mailto:alan@tokenfunder.com) to speak about cryptofinance and blockchain at your next event ***
 
-[Blockchain for Your Organization](https://www.eventbrite.ca/e/the-big-push-and-cryptochicks-presents-blockchain-for-your-organization-tickets-46470756283). The Big Push and Cryptochicks. Toronto, June 2018.
+[Blockchain for Your Organization](https://www.eventbrite.ca/e/the-big-push-and-cryptochicks-presents-blockchain-for-your-organization-tickets-46470756283). The Big Push and Cryptochicks. (Sponsors: Microsoft. Mercer). Toronto, June 2018.
 
 [Navigating the Tides of Change - Panel 3 - Blockchain & Cryptocurrency: Demystified](https://www.acg.org/toronto/events/lunch-panel-series-navigating-tides-change-panel-3-blockchain-cryptocurrency-0). Lunch Panel Series (National Club). Association for Corporate Growth (ACG). Toronto. June 2018.  
 
