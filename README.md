@@ -85,6 +85,8 @@ Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the C
 
 ***  [Contact Alan Wunsche](mailto:alan@tokenfunder.com) to speak about cryptofinance and blockchain at your next event ***
 
+[Blockchain for Your Organization](https://www.eventbrite.ca/e/the-big-push-and-cryptochicks-presents-blockchain-for-your-organization-tickets-46470756283). The Big Push and Cryptochicks. Toronto, June 2018.
+
 [Navigating the Tides of Change - Panel 3 - Blockchain & Cryptocurrency: Demystified](https://www.acg.org/toronto/events/lunch-panel-series-navigating-tides-change-panel-3-blockchain-cryptocurrency-0). Lunch Panel Series (National Club). Association for Corporate Growth (ACG). Toronto. June 2018.  
 
 IAPP Knowledgenet Session - Blockchain and Privacy | [link](https://my.iapp.org/nc__event?id=a0l1a000008ZO9KAAW&mkt_tok=eyJpIjoiTkRKaU9HWTNaV0UxWW1GbCIsInQiOiJKYU54SmhKc05GbERKTUlsUHNiaEFUajkyZ3pDTnhRaEZ6aHhBS1BMclFkOEpFaGlHTm80Tk16eVJjaWVJR0dIVlpkcW5TRTZoUkF1VXpxY1JaVk9xcFwveUtrZUZFbERPOGVpcWNrNzZNSzFCczIraDVqZFBzQ0dMa1ZiZDBkYW0ifQ%3D%3D). International Association of Privacy Professionals (IAPP). [Baker McKenzie Law](https://www.bakermckenzie.com/en/locations/north-america/canada). Toronto. June 2018.
