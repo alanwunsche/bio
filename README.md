@@ -57,7 +57,7 @@ Senior Accountant, Principal Consultant. (Strategy, Systems Implementations, Bus
 ## In the News
 
 
-[CPA Ontario : Navigating the Brave New World of Cryptocurrency and ICOs](https://www.cpaontario.ca/stewardship-of-the-profession/insight-research/thought-leadership/navigating-the-brave-new-world-of-cryptocurrency-and-icos) -- [PDF](https://github.com/alanwunsche/bio/blob/master/publications/Navigating-the-Brave-New-World-of-Cryptocurrency-and-ICOs-May2018.pdf) CPA Ontario Thought Leadership Series. May 2018.
+[CPA Ontario : Navigating the Brave New World of Cryptocurrency and ICOs](https://www.cpaontario.ca/stewardship-of-the-profession/insight-research/thought-leadership/navigating-the-brave-new-world-of-cryptocurrency-and-icos) -- ![pdf](https://github.com/alanwunsche/bio/blob/master/images/pdf-20.png) [PDF](https://github.com/alanwunsche/bio/blob/master/publications/Navigating-the-Brave-New-World-of-Cryptocurrency-and-ICOs-May2018.pdf) CPA Ontario Thought Leadership Series. May 2018.
 
 [TokenFunder Launches Canada’s First Regulated Security Token on the Ethereum Blockchain](https://tokenfunder.com/tokenfunder-launches-canadas-first-regulated-security-token-on-ethereum-blockchain/) May 2018.
 - Token Funder Inc. (“TokenFunder”) announces the launch of FNDR tokens, Canada’s first regulated security token on the Ethereum public blockchain. TokenFunder is a pioneer in the new world of digital finance, and leads the way on decentralization of tokenized assets, also known as cryptoassets.
