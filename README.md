@@ -12,7 +12,7 @@ Twitter: [@alanwunsche](https://twitter.com/alanwunsche) | Medium:  [@alanwunsch
 
 ## Intro
 
-Alan is CEO & Chief Token Officer of [TokenFunder](https://www.TokenFunder.com), and Chair & Co-Founder of [Blockchain Canada](http://www.BlockchainCanada.org).  Alan is a finance technologist focused on new blockchain business models and the disruptive impacts of blockchain on global wealth distribution and innovation. He brings hands-on technology experience as a finance and risk transformation executive at a global bank (Scotiabank), management consulting (Deloitte, PwC), and startups.
+Alan Wunsche is CEO & Chief Token Officer of [TokenFunder](https://www.TokenFunder.com), Chair & Co-Founder of [Blockchain Canada](http://www.BlockchainCanada.org) and Canadian Chair of ISO TC307 (Blockchain Standards) Committee. Alan is a finance and blockchain technology expert focused on the disruptive impacts of blockchain and cryptocurrencies on capital markets and global wealth distribution. He recently led TokenFunder's launch of Canada's first regulatory-compliant security token offering on the Ethereum public blockchain. Alan is a Chartered Professional Accountant with hands-on technology experience leading finance and risk transformation programs as an executive at a global bank (Scotiabank), management consulting (Deloitte, PwC), incubators and startups.
 
 ![AAW](https://github.com/alanwunsche/bio/blob/master/Wunsche-ProfessionalSummary.png)
 
@@ -84,6 +84,12 @@ Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the C
 ## Presentations, Keynotes, Panels, Reports:
 
 ***  [Contact Alan Wunsche](mailto:alan@tokenfunder.com) to speak about cryptofinance and blockchain at your next event ***
+
+[Blockchain for Your Organization](https://www.eventbrite.ca/e/the-big-push-and-cryptochicks-presents-blockchain-for-your-organization-tickets-46470756283). The Big Push and Cryptochicks. (Sponsors: Microsoft. Mercer). Toronto, June 2018.
+
+[Navigating the Tides of Change - Panel 3 - Blockchain & Cryptocurrency: Demystified](https://www.acg.org/toronto/events/lunch-panel-series-navigating-tides-change-panel-3-blockchain-cryptocurrency-0). Lunch Panel Series (National Club). Association for Corporate Growth (ACG). Toronto. June 2018.  
+
+IAPP Knowledgenet Session - Blockchain and Privacy | [link](https://my.iapp.org/nc__event?id=a0l1a000008ZO9KAAW&mkt_tok=eyJpIjoiTkRKaU9HWTNaV0UxWW1GbCIsInQiOiJKYU54SmhKc05GbERKTUlsUHNiaEFUajkyZ3pDTnhRaEZ6aHhBS1BMclFkOEpFaGlHTm80Tk16eVJjaWVJR0dIVlpkcW5TRTZoUkF1VXpxY1JaVk9xcFwveUtrZUZFbERPOGVpcWNrNzZNSzFCczIraDVqZFBzQ0dMa1ZiZDBkYW0ifQ%3D%3D). International Association of Privacy Professionals (IAPP). [Baker McKenzie Law](https://www.bakermckenzie.com/en/locations/north-america/canada). Toronto. June 2018.
 
 [Decentralization, Governance, Automation and the Future of Society. AIDecentralized - Toronto Summit - May 2018](https://www.aidecentralized.com/aidecentralized-summit-toronto). [PDF](https://github.com/alanwunsche/bio/blob/master/presentations/AlanWunsche-AIDecentralized-May22%2C2018.pdf). May 2018.
 
