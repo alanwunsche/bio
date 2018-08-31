@@ -91,6 +91,8 @@ Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the C
 
 [KPMG Asset Management Forum 2018](https://home.kpmg.com/ca/en/home/events.html).  Toronto. September 2018.
 
+[5th Joint Bank of Canada and Payments Canada Workshop on Innovations in Payment Systems: FinTech and Central Bank Digital Currencies](https://www.bankofcanada-conference.ca). Ottawa. September 2018.
+
 [The Global Impact of Blockchain & Digital Currencies](http://www.fintechcanada.com/schedule/). Fintech Canada Conference. Toronto, August 2018.
 
 [Blockchain for Your Organization](https://www.eventbrite.ca/e/the-big-push-and-cryptochicks-presents-blockchain-for-your-organization-tickets-46470756283). The Big Push and Cryptochicks. (Sponsors: Microsoft. Mercer). Toronto, June 2018.
