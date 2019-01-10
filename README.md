@@ -85,6 +85,8 @@ Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the C
 
 ***  [Contact Alan Wunsche](mailto:alan@tokenfunder.com) to speak about cryptofinance and blockchain at your next event ***
 
+[swissnexDay'18 - Connecting the Blocks, Unchaining the Blockchain](https://www.swissnexchina.org/en/event/swissnexday18/). Zurich. December 2018.
+
 [Blockchain Impact Investment Summit 2018](https://www.blockchainimpact.co). Toronto. September 2018.
 
 [MaRS Startup Open House](https://www.marsdd.com/events/). MaRS. Toronto. September 2018.
