@@ -81,7 +81,7 @@ Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the C
 
 
 
-## Presentations, Keynotes, Panels, Reports:
+## Presentations, Keynotes, Panels, Podcasts, Reports:
 
 ***  [Contact Alan Wunsche](mailto:alan@tokenfunder.com) to speak about cryptofinance and blockchain at your next event ***
 
@@ -96,6 +96,8 @@ Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the C
 [5th Joint Bank of Canada and Payments Canada Workshop on Innovations in Payment Systems: FinTech and Central Bank Digital Currencies](https://www.bankofcanada-conference.ca). Ottawa. September 2018.
 
 [The Global Impact of Blockchain & Digital Currencies](http://www.fintechcanada.com/schedule/). Fintech Canada Conference. Toronto, August 2018.
+
+[Podcast: Young Money with Tracey Bissett: EP039 Bitcoin and Other Cryptocurrencies Demystified with Alan Wunsche](https://itunes.apple.com/ca/podcast/young-money-with-tracey-bissett/id1313023076#). July 2018
 
 [Blockchain for Your Organization](https://www.eventbrite.ca/e/the-big-push-and-cryptochicks-presents-blockchain-for-your-organization-tickets-46470756283). The Big Push and Cryptochicks. (Sponsors: Microsoft. Mercer). Toronto, June 2018.
 
