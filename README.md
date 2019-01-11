@@ -56,6 +56,9 @@ Senior Accountant, Principal Consultant. (Strategy, Systems Implementations, Bus
 
 ## In the News
 
+[SCOTIABANK DIGITAL BANKING LAB - TokenFunder Company Profile](https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/blockchain-crypto/tokenfunder/). December 2018.
+
+[Understanding Digital Tokens: Market Overviews & Proposed Guidelines for Policymakers & Practitioners](https://digitalchamber.org/token-alliance-whitepaper/). ![pdf](https://github.com/alanwunsche/bio/blob/master/images/pdf-20.png) [PDF](https://digitalchamber.org/download/7153/). Chamber of Digital Commerce. July 2018.
 
 [CPA Ontario : Navigating the Brave New World of Cryptocurrency and ICOs](https://www.cpaontario.ca/stewardship-of-the-profession/insight-research/thought-leadership/navigating-the-brave-new-world-of-cryptocurrency-and-icos) -- ![pdf](https://github.com/alanwunsche/bio/blob/master/images/pdf-20.png) [Download PDF](https://github.com/alanwunsche/bio/blob/master/publications/Navigating-the-Brave-New-World-of-Cryptocurrency-and-ICOs-May2018.pdf) CPA Ontario Thought Leadership Series. May 2018.
 
@@ -81,9 +84,11 @@ Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the C
 
 
 
-## Presentations, Keynotes, Panels, Reports:
+## Presentations, Keynotes, Panels, Podcasts, Reports:
 
 ***  [Contact Alan Wunsche](mailto:alan@tokenfunder.com) to speak about cryptofinance and blockchain at your next event ***
+
+[swissnexDay'18 - Connecting the Blocks, Unchaining the Blockchain](https://www.swissnexchina.org/en/event/swissnexday18/). Zurich. December 2018.
 
 [Blockchain Impact Investment Summit 2018](https://www.blockchainimpact.co). Toronto. September 2018.
 
@@ -94,6 +99,8 @@ Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the C
 [5th Joint Bank of Canada and Payments Canada Workshop on Innovations in Payment Systems: FinTech and Central Bank Digital Currencies](https://www.bankofcanada-conference.ca). Ottawa. September 2018.
 
 [The Global Impact of Blockchain & Digital Currencies](http://www.fintechcanada.com/schedule/). Fintech Canada Conference. Toronto, August 2018.
+
+[Podcast: Young Money with Tracey Bissett: EP039 Bitcoin and Other Cryptocurrencies Demystified with Alan Wunsche](https://itunes.apple.com/ca/podcast/young-money-with-tracey-bissett/id1313023076#). July 2018
 
 [Blockchain for Your Organization](https://www.eventbrite.ca/e/the-big-push-and-cryptochicks-presents-blockchain-for-your-organization-tickets-46470756283). The Big Push and Cryptochicks. (Sponsors: Microsoft. Mercer). Toronto, June 2018.
 
