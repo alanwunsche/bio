@@ -58,6 +58,8 @@ Senior Accountant, Principal Consultant. (Strategy, Systems Implementations, Bus
 
 [SCOTIABANK DIGITAL BANKING LAB - TokenFunder Company Profile](https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/blockchain-crypto/tokenfunder/). December 2018.
 
+[Ivey Case Study | TokenFunder: Democratizing Funding and Investing with Blockchain](https://www.iveycases.com/ProductView.aspx?id=99305). Ivey Publishing. November 2018.
+
 [Understanding Digital Tokens: Market Overviews & Proposed Guidelines for Policymakers & Practitioners](https://digitalchamber.org/token-alliance-whitepaper/). ![pdf](https://github.com/alanwunsche/bio/blob/master/images/pdf-20.png) [PDF](https://digitalchamber.org/download/7153/). Chamber of Digital Commerce. July 2018.
 
 [CPA Ontario : Navigating the Brave New World of Cryptocurrency and ICOs](https://www.cpaontario.ca/stewardship-of-the-profession/insight-research/thought-leadership/navigating-the-brave-new-world-of-cryptocurrency-and-icos) -- ![pdf](https://github.com/alanwunsche/bio/blob/master/images/pdf-20.png) [PDF](https://github.com/alanwunsche/bio/blob/master/publications/Navigating-the-Brave-New-World-of-Cryptocurrency-and-ICOs-May2018.pdf) CPA Ontario Thought Leadership Series. May 2018.
