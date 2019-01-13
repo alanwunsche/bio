@@ -238,7 +238,7 @@ Enterprise Business Intelligence Centre of Excellence Design Blueprint. Big Data
 
 "Technological Disruption of Capital Markets and Reporting? An Introduction to Blockchain" -- ![pdf](https://github.com/alanwunsche/bio/blob/master/images/pdf-20.png) [REPORT PDF](https://github.com/alanwunsche/bio/blob/master/publications/G10157-RG-Technological-Disruption-of-Capital-Markets-Reporting-Introduction-to-Blockchain-October-2016.pdf) CPA Canada. 2016.
 
-[The World is Your Think Tank - Transforming global idea flow into cash flow for a competitive advantage](https://github.com/alanwunsche/bio/blob/master/publications/AlanWunsche_Theworldisyourthinktank_sept08.pdf). Award Winning Innovation Paper - Deloitte Strategy and Operations Management Consulting Practice. 2008.
+![pdf](https://github.com/alanwunsche/bio/blob/master/images/pdf-20.png) [The World is Your Think Tank - Transforming global idea flow into cash flow for a competitive advantage](https://github.com/alanwunsche/bio/blob/master/publications/AlanWunsche_Theworldisyourthinktank_sept08.pdf). Award Winning Innovation Paper - Deloitte Strategy and Operations Management Consulting Practice. 2008.
 
 [The CFO as Strategist and Catalyst in Building a High-Performance Culture](https://iveybusinessjournal.com/publication/the-cfo-as-strategist-and-catalyst-in-building-a-high-performance-culture/), Ivey Business Journal, November/December 2007.
 
