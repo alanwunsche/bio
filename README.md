@@ -58,6 +58,10 @@ Senior Accountant, Principal Consultant. (Strategy, Systems Implementations, Bus
 
 [SCOTIABANK DIGITAL BANKING LAB - TokenFunder Company Profile](https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/blockchain-crypto/tokenfunder/). December 2018.
 
+[Podcast: FINTECH FRIDAY$ (EP.19-Nov 23): Future of Business Tokenization – How Blockchain Challenges Concept of Money with Alan Wunsche, Founder and CEO, Token Funder](https://ncfacanada.org/fintech-friday-ep-19-nov-23-future-of-business-tokenization-how-blockchain-challenges-concept-of-money-with-alan-wunsche-founder-and-ceo-token-funder/). November 2018.
+
+[Ivey Case Study | TokenFunder: Democratizing Funding and Investing with Blockchain](https://www.iveycases.com/ProductView.aspx?id=99305). Ivey Publishing. November 2018.
+
 [Understanding Digital Tokens: Market Overviews & Proposed Guidelines for Policymakers & Practitioners](https://digitalchamber.org/token-alliance-whitepaper/). ![pdf](https://github.com/alanwunsche/bio/blob/master/images/pdf-20.png) [PDF](https://digitalchamber.org/download/7153/). Chamber of Digital Commerce. July 2018.
 
 [CPA Ontario : Navigating the Brave New World of Cryptocurrency and ICOs](https://www.cpaontario.ca/stewardship-of-the-profession/insight-research/thought-leadership/navigating-the-brave-new-world-of-cryptocurrency-and-icos) -- ![pdf](https://github.com/alanwunsche/bio/blob/master/images/pdf-20.png) [Download PDF](https://github.com/alanwunsche/bio/blob/master/publications/Navigating-the-Brave-New-World-of-Cryptocurrency-and-ICOs-May2018.pdf) CPA Ontario Thought Leadership Series. May 2018.
@@ -232,9 +236,9 @@ Enterprise Business Intelligence Centre of Excellence Design Blueprint. Big Data
 
 ## Articles, Publications, Blog Posts
 
-"Technological Disruption of Capital Markets and Reporting? An Introduction to Blockchain" -- [REPORT PDF](https://github.com/alanwunsche/bio/blob/master/publications/G10157-RG-Technological-Disruption-of-Capital-Markets-Reporting-Introduction-to-Blockchain-October-2016.pdf) CPA Canada. 2016.
+"Technological Disruption of Capital Markets and Reporting? An Introduction to Blockchain" -- ![pdf](https://github.com/alanwunsche/bio/blob/master/images/pdf-20.png) [REPORT PDF](https://github.com/alanwunsche/bio/blob/master/publications/G10157-RG-Technological-Disruption-of-Capital-Markets-Reporting-Introduction-to-Blockchain-October-2016.pdf) CPA Canada. 2016.
 
-[The World is Your Think Tank - Transforming global idea flow into cash flow for a competitive advantage](https://github.com/alanwunsche/bio/blob/master/publications/AlanWunsche_Theworldisyourthinktank_sept08.pdf). Award Winning Innovation Paper - Deloitte Strategy and Operations Management Consulting Practice. 2008.
+![pdf](https://github.com/alanwunsche/bio/blob/master/images/pdf-20.png) [The World is Your Think Tank - Transforming global idea flow into cash flow for a competitive advantage](https://github.com/alanwunsche/bio/blob/master/publications/AlanWunsche_Theworldisyourthinktank_sept08.pdf). Award Winning Innovation Paper - Deloitte Strategy and Operations Management Consulting Practice. 2008.
 
 [The CFO as Strategist and Catalyst in Building a High-Performance Culture](https://iveybusinessjournal.com/publication/the-cfo-as-strategist-and-catalyst-in-building-a-high-performance-culture/), Ivey Business Journal, November/December 2007.
 
