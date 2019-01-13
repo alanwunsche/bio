@@ -58,6 +58,8 @@ Senior Accountant, Principal Consultant. (Strategy, Systems Implementations, Bus
 
 [SCOTIABANK DIGITAL BANKING LAB - TokenFunder Company Profile](https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/blockchain-crypto/tokenfunder/). December 2018.
 
+[Podcast: FINTECH FRIDAY$ (EP.19-Nov 23): Future of Business Tokenization – How Blockchain Challenges Concept of Money with Alan Wunsche, Founder and CEO, Token Funder](https://ncfacanada.org/fintech-friday-ep-19-nov-23-future-of-business-tokenization-how-blockchain-challenges-concept-of-money-with-alan-wunsche-founder-and-ceo-token-funder/). November 2018.
+
 [Ivey Case Study | TokenFunder: Democratizing Funding and Investing with Blockchain](https://www.iveycases.com/ProductView.aspx?id=99305). Ivey Publishing. November 2018.
 
 [Understanding Digital Tokens: Market Overviews & Proposed Guidelines for Policymakers & Practitioners](https://digitalchamber.org/token-alliance-whitepaper/). ![pdf](https://github.com/alanwunsche/bio/blob/master/images/pdf-20.png) [PDF](https://digitalchamber.org/download/7153/). Chamber of Digital Commerce. July 2018.
