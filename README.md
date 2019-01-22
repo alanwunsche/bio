@@ -56,6 +56,8 @@ Senior Accountant, Principal Consultant. (Strategy, Systems Implementations, Bus
 
 ## In the News
 
+[Capitalism 3.0 (The Tokenism Release)](https://ncfacanada.org/pop-up-magazine-ncfa-blockchain-fintech-confidential-vol-1-issue-1/). Blocklchain and Fintech Confidential Magazine. National Fintech and Crowdfunding Association of Canada. January 2019.
+
 [SCOTIABANK DIGITAL BANKING LAB - TokenFunder Company Profile](https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/blockchain-crypto/tokenfunder/). December 2018.
 
 [Podcast: FINTECH FRIDAY$ (EP.19-Nov 23): Future of Business Tokenization – How Blockchain Challenges Concept of Money with Alan Wunsche, Founder and CEO, Token Funder](https://ncfacanada.org/fintech-friday-ep-19-nov-23-future-of-business-tokenization-how-blockchain-challenges-concept-of-money-with-alan-wunsche-founder-and-ceo-token-funder/). November 2018.
@@ -235,6 +237,9 @@ Chair, Scotiabank Non-retail Data Governance Council. Enterprise Data Management
 Enterprise Business Intelligence Centre of Excellence Design Blueprint. Big Data and Analytics Development. Daily Risk Aggregator and Risk Data Aggregation Presentation to Scotiabank Board of Directors. 
 
 ## Articles, Publications, Blog Posts
+
+[Capitalism 3.0: The “Tokenism” Release](https://medium.com/@AlanWunsche/capitalism-3-0-the-tokenism-release-aaedb6b1c05b)
+- Tokenization as a major upgrade to the global financial operating system
 
 "Technological Disruption of Capital Markets and Reporting? An Introduction to Blockchain" -- ![pdf](https://github.com/alanwunsche/bio/blob/master/images/pdf-20.png) [REPORT PDF](https://github.com/alanwunsche/bio/blob/master/publications/G10157-RG-Technological-Disruption-of-Capital-Markets-Reporting-Introduction-to-Blockchain-October-2016.pdf) CPA Canada. 2016.
 
