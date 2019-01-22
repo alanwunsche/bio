@@ -12,7 +12,7 @@ Twitter: [@alanwunsche](https://twitter.com/alanwunsche) | Medium:  [@alanwunsch
 
 ## Intro
 
-Alan Wunsche is CEO & Chief Token Officer of [TokenFunder](https://www.TokenFunder.com), Chair & Co-Founder of [Blockchain Canada](http://www.BlockchainCanada.org) and Founding Canadian Chair of ISO TC307 (Blockchain Standards) Committee. Alan is a finance and blockchain technology expert focused on the disruptive impacts of blockchain and cryptocurrencies on capital markets and global wealth distribution. He led TokenFunder's launch of Canada's first regulatory-compliant security token offering on the Ethereum public blockchain. Alan is a Chartered Professional Accountant with hands-on technology experience leading finance and risk transformation programs as an executive at a global bank (Scotiabank), management consulting (Deloitte, PwC), incubators and startups.
+Alan Wunsche is CEO & Chief Token Officer of [TokenFunder.com](https://www.TokenFunder.com), Chair & Co-Founder of [Blockchain Canada](http://www.BlockchainCanada.org) and Founding Canadian Chair of ISO TC307 (Blockchain & Distributed Ledger Technologies) Standards Committee. Alan is a finance and blockchain technology expert focused on the disruptive impacts of blockchain and cryptocurrencies on capital markets and global wealth distribution. He led TokenFunder's launch of Canada's first regulatory-compliant security token offering on the Ethereum public blockchain. Alan is a Chartered Professional Accountant with hands-on technology experience leading finance and risk transformation programs as an executive at a global bank (Scotiabank), management consulting (Deloitte, PwC), incubators and startups.
 
 ![AAW](https://github.com/alanwunsche/bio/blob/master/Wunsche-ProfessionalSummary.png)
 
