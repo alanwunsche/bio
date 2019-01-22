@@ -134,6 +134,8 @@ Cryptochicks Blockchain Hackathon.  Blockchain Regulatory Panel. Toronto. April 
 
 [Evolution of a Global Token Economy](https://github.com/alanwunsche/bio/blob/master/presentations/AlanWunsche-FinTechTO-EvolutionofaGlobalTokenEconomy-March26%2C2018.pdf). FinTechTO. Toronto. March 2018.
 
+[BUSINESS LICENSING: GOVERNANCE FOR GOVERNMENT BLOCKCHAINS](https://www.blockchainresearchinstitute.org/project/business-licensing-governance-for-government-blockchains/). Research Contribution. Blockkchain Research Institute. March 2018.
+
 Bridging the Blockchain Regulatory Gap.  Blockchain Canada Event. Toronto. March 2018.
 
 InvestTO. Panelist: Cryptocurrency, Blockchain Tokens and Regulatory Event. Toronto. February 2018.
