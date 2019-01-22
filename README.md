@@ -56,7 +56,7 @@ Senior Accountant, Principal Consultant. (Strategy, Systems Implementations, Bus
 
 ## In the News
 
-[Capitalism 3.0 (The Tokenism Release)](https://ncfacanada.org/pop-up-magazine-ncfa-blockchain-fintech-confidential-vol-1-issue-1/). Blocklchain and Fintech Confidential Magazine. National Fintech and Crowdfunding Association of Canada. January 2019.
+[Capitalism 3.0 (The Tokenism Release)](https://ncfacanada.org/pop-up-magazine-ncfa-blockchain-fintech-confidential-vol-1-issue-1/). Blockchain and Fintech Confidential Magazine. National Fintech and Crowdfunding Association of Canada. January 2019.
 
 [SCOTIABANK DIGITAL BANKING LAB - TokenFunder Company Profile](https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/blockchain-crypto/tokenfunder/). December 2018.
 
