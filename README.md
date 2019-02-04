@@ -94,6 +94,12 @@ Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the C
 
 ***  [Contact Alan Wunsche](mailto:alan@tokenfunder.com) to speak about cryptofinance and blockchain at your next event ***
 
+Blockchain Technology: The Future for Business. [OPERATIONALIZING BLOCKCHAIN: LEGAL ISSUES AND CHALLENGES TO CONSIDER](https://www.oba.org/Institute/Program-Listing/Tuesday/Business-Law-2019). Ontario Bar Association's Institute. Toronto. February 2019. 
+
+McMaster World Congress: Blockchain Future Keynote. Hamilton, Ontario, Canada. January 2019.
+
+Blockchain, Cryptoassets and Regulatory Concerns.  Osgoode Law Blockchain Certification Program. Toronto. January 2019. 
+
 [swissnexDay'18 - Connecting the Blocks, Unchaining the Blockchain](https://www.swissnexchina.org/en/event/swissnexday18/). Zurich. December 2018.
 
 [Blockchain Impact Investment Summit 2018](https://www.blockchainimpact.co). Toronto. September 2018.
