@@ -10,6 +10,8 @@ CEO & Chief Token Officer, Co-Founder, [TokenFunder.com](https://www.TokenFunder
 
 Twitter: [@alanwunsche](https://twitter.com/alanwunsche) | Medium:  [@alanwunsche](https://medium.com/@alanwunsche) | Blog : [Algonomic](http://www.algonomic.com/blog/)
 
+[Keybase : https://keybase.io/alanwunsche](https://keybase.io/alanwunsche)
+
 ## Intro
 ![AAW](https://github.com/alanwunsche/bio/blob/master/alanwunsche-200.jpg)
 
