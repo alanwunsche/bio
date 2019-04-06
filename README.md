@@ -98,6 +98,8 @@ Alan Wunsche is a Chartered Professional Accountant (CPA,CA) and Member of the C
 
 ***  [Contact Alan Wunsche](mailto:alan@tokenfunder.com) to speak about cryptofinance and blockchain at your next event ***
 
+[How Stablecoins like the DAI could Revolutionized the Role of Central Banks](https://sched.co/Mgjc), 5th ANNUAL 2019 Fintech & Financing Conference. [National Crowdfunding & Fintech Association (NCFA Canada)](https://ncfacanada.org/). Toronto. April 2019.
+
 Blockchain Technology: The Future for Business. [OPERATIONALIZING BLOCKCHAIN: LEGAL ISSUES AND CHALLENGES TO CONSIDER](https://www.oba.org/Institute/Program-Listing/Tuesday/Business-Law-2019). Ontario Bar Association's Institute. Toronto. February 2019. 
 
 McMaster World Congress: Blockchain Future Keynote. Hamilton, Ontario, Canada. January 2019.
