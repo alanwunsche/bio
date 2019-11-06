@@ -67,6 +67,10 @@ Senior Accountant, Principal Consultant. (Strategy, Systems Implementations, Bus
 [Ontario Regulator Lets Security Token Startup Test Secondary Trading](https://www.coindesk.com/ontario-regulator-lets-security-token-startup-test-secondary-trading). CoinDesk. October 24, 2019.
 ![CoinDesk-Oct2019](https://github.com/alanwunsche/bio/blob/master/images/20191024-Coindesk-Image-v2.png)
 
+[TokenGX Secondary Trading Decision Order](https://www.osc.gov.on.ca/en/SecuritiesLaw_ord_20191023_tokengx.htm). October 2019.
+
+[TokenGX Security Token Exempt Market Dealer - Canadian Securities Administrators](https://securities-administrators.ca/uploadedFiles/Industry_Resources/TC_TokenGX.pdf). April 2019.
+
 [Ivey InTouch Alumni Magazine - Spring 2019](https://www.ivey.uwo.ca/cmsmedia/3785139/intouch-spring-2019web.pdf). Ivey Business School. Spring 2019
 
 [Capitalism 3.0 (The Tokenism Release)](https://ncfacanada.org/pop-up-magazine-ncfa-blockchain-fintech-confidential-vol-1-issue-1/). ![pdf](https://github.com/alanwunsche/bio/blob/master/images/pdf-20.png) Blockchain and Fintech Confidential Magazine. National Fintech and Crowdfunding Association of Canada. January 2019.
