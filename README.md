@@ -6,6 +6,8 @@ CEO & Chief Token Officer, Co-Founder, [TokenFunder.com](https://www.TokenFunder
 
 Chief Compliance Officer, Co-Founder, TokenGX - "Canada's first regulated security token exempt market dealer"
 
+## Contact
+
 [Alan@TokenFunder.com](mailto:alan@tokenfunder.com) | [PGP Key](https://github.com/alanwunsche/pgp/blob/master/alan%40tokenfunder.com)
 
 [LinkedIn : https://LinkedIn.com/in/alanwunsche](https://LinkedIn.com/in/alanwunsche)
