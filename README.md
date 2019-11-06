@@ -63,6 +63,7 @@ Senior Accountant, Principal Consultant. (Strategy, Systems Implementations, Bus
 
 ## In the News
 [Ontario Regulator Lets Security Token Startup Test Secondary Trading](https://www.coindesk.com/ontario-regulator-lets-security-token-startup-test-secondary-trading). CoinDesk. October 24, 2019.
+![CoinDesk-Oct2019](https://github.com/alanwunsche/bio/blob/master/images/20191024-Coindesk-Image-v2.png)
 
 [Ivey InTouch Alumni Magazine - Spring 2019](https://www.ivey.uwo.ca/cmsmedia/3785139/intouch-spring-2019web.pdf). Ivey Business School. Spring 2019
 
