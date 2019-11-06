@@ -66,7 +66,7 @@ Senior Accountant, Principal Consultant. (Strategy, Systems Implementations, Bus
 ## In the News
 [Ontario Regulator Lets Security Token Startup Test Secondary Trading](https://www.coindesk.com/ontario-regulator-lets-security-token-startup-test-secondary-trading). CoinDesk. October 24, 2019.
 ![CoinDesk-Oct2019](https://github.com/alanwunsche/bio/blob/master/images/20191024-Coindesk-Image-v2.png)
-
+![FreedomX-bytokenfunder](https://github.com/alanwunsche/bio/blob/master/images/FredomX-PoweredBy-NOBcKGrnd-002642(OxfordBlue)-4CBB17(KellyGreen).png)
 [TokenGX Secondary Trading Decision Order](https://www.osc.gov.on.ca/en/SecuritiesLaw_ord_20191023_tokengx.htm). October 2019.
 
 [TokenGX Security Token Exempt Market Dealer - Canadian Securities Administrators](https://securities-administrators.ca/uploadedFiles/Industry_Resources/TC_TokenGX.pdf). April 2019.
