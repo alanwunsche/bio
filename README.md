@@ -75,7 +75,8 @@ Senior Accountant, Principal Consultant. (Strategy, Systems Implementations, Bus
 
 [Ivey InTouch Alumni Magazine - Spring 2019](https://www.ivey.uwo.ca/cmsmedia/3785139/intouch-spring-2019web.pdf). Ivey Business School. Spring 2019
 
-[Capitalism 3.0 (The Tokenism Release)](https://ncfacanada.org/pop-up-magazine-ncfa-blockchain-fintech-confidential-vol-1-issue-1/). ![pdf](https://github.com/alanwunsche/bio/blob/master/images/pdf-20.png) Blockchain and Fintech Confidential Magazine. National Fintech and Crowdfunding Association of Canada. January 2019.
+[Capitalism 3.0 ('The Tokenism Release')](https://github.com/alanwunsche/bio/blob/master/publications/NCFA%20Blockchain%20Fintech%20CONFIDENTIAL%20(Vol%201%2C%20Issue%201)-Capitalism3.0.pdf) Blockchain and Fintech Confidential Magazine. National Fintech and Crowdfunding Association of Canada. January 2019.
+![Capitalism 3.0]()
 
 [SCOTIABANK DIGITAL BANKING LAB - TokenFunder Company Profile](https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/blockchain-crypto/tokenfunder/). December 2018.
 
