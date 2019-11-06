@@ -2,7 +2,9 @@
 
 ![AAW](https://github.com/alanwunsche/bio/blob/master/images/IveyAlumniCover-Spring2019.png)
 
-CEO & Chief Token Officer, Co-Founder, [TokenFunder.com](https://www.TokenFunder.com) - "Building a Regulated CryptoFinance Ecosystem in the New World of Digital Finance"
+CEO & Chief Token Officer, Co-Founder, [TokenFunder.com](https://www.TokenFunder.com) - "Canada's Digital Asset (Security Token) Issuance Platform"
+
+Chief Compliance Officer, Co-Founder, TokenGX - "Canada's first regulated security token exempt market dealer"
 
 [Alan@TokenFunder.com](mailto:alan@tokenfunder.com) | [PGP Key](https://github.com/alanwunsche/pgp/blob/master/alan%40tokenfunder.com)
 
@@ -15,7 +17,7 @@ Twitter: [@alanwunsche](https://twitter.com/alanwunsche) | Medium:  [@alanwunsch
 ## Intro
 ![AAW](https://github.com/alanwunsche/bio/blob/master/alanwunsche-200.jpg)
 
-Alan Wunsche is CEO & Chief Token Officer of [TokenFunder.com](https://www.TokenFunder.com), Chair & Co-Founder of [Blockchain Canada](http://www.BlockchainCanada.org) and Founding Canadian Chair of ISO TC307 (Blockchain & Distributed Ledger Technologies) Standards Committee. Alan is a finance and blockchain technology expert focused on the disruptive impacts of blockchain and cryptocurrencies on capital markets and global wealth distribution. He led TokenFunder's launch of Canada's first regulatory-compliant security token offering on the Ethereum public blockchain. Alan is a Chartered Professional Accountant with hands-on technology experience leading finance and risk transformation programs as an executive at a global bank (Scotiabank), management consulting (Deloitte, PwC), incubators and startups.
+Alan Wunsche is CEO & Chief Token Officer of [TokenFunder.com](https://www.TokenFunder.com), Chief Compliance Officer and Co-Foudner of TokenGX, Chair & Co-Founder of [Blockchain Canada](http://www.BlockchainCanada.org) and Founding Canadian Chair of ISO TC307 (Blockchain & Distributed Ledger Technologies) Standards Committee. Alan is a finance and blockchain technology expert focused on the disruptive impacts of blockchain and cryptocurrencies on capital markets and global wealth distribution. He led TokenFunder's launch of Canada's first regulatory-compliant security token offering on the Ethereum public blockchain, established TokenGX as Canada's first security token exempt market dealer, and is building Canada's first secondary trading platform (FreedomX) for the private capital markets. Alan is a Chartered Professional Accountant with hands-on technology experience leading finance and risk transformation programs as an executive at a global bank (Scotiabank), management consulting (Deloitte, PwC), incubators and startups.
 
 ![AAW](https://github.com/alanwunsche/bio/blob/master/Wunsche-ProfessionalSummary.png)
 
@@ -33,9 +35,11 @@ Blockchain/Fintech Expert ▪ Transformation Leader & Innovation Evangelist with
 
 ## Professional Roles
 
+Co-Founder, Chief Compliance Officer, TokenGX (2018 - present)
+
 CEO, Co-Founder, Chief Token Officer, [TokenFunder](https://www.TokenFunder.com) (2016 - present)
 
-Canada Chair, ISO/TC307 : Blockchain and distributed ledger technologies. Standards Council of Canada. (2016 - present)
+Canadian Founding Chair, ISO/TC307 : Blockchain and distributed ledger technologies. Standards Council of Canada. (2016 - present)
 
 Chair, Co-Founder, [Blockchain Canada](https://www.blockchaincanada.org) "Connecting Canadian Blockchain Innovators." (2016 - present)
 
@@ -58,6 +62,8 @@ Co-Founder, Brainbid.com. 1999-2000.
 Senior Accountant, Principal Consultant. (Strategy, Systems Implementations, Business Intelligence, Finance Transformation).  PricewaterhouseCoopers (PwC) Canada Management Consulting. 1991-2000. 
 
 ## In the News
+[Ontario Regulator Lets Security Token Startup Test Secondary Trading](https://www.coindesk.com/ontario-regulator-lets-security-token-startup-test-secondary-trading). CoinDesk. October 24, 2019.
+
 [Ivey InTouch Alumni Magazine - Spring 2019](https://www.ivey.uwo.ca/cmsmedia/3785139/intouch-spring-2019web.pdf). Ivey Business School. Spring 2019
 
 [Capitalism 3.0 (The Tokenism Release)](https://ncfacanada.org/pop-up-magazine-ncfa-blockchain-fintech-confidential-vol-1-issue-1/). ![pdf](https://github.com/alanwunsche/bio/blob/master/images/pdf-20.png) Blockchain and Fintech Confidential Magazine. National Fintech and Crowdfunding Association of Canada. January 2019.
