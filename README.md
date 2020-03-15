@@ -16,7 +16,7 @@ Chief Compliance Officer, Co-Founder, TokenGX - "Canada's first regulated securi
 
 Twitter: [@alanwunsche](https://twitter.com/alanwunsche) | Medium:  [@alanwunsche](https://medium.com/@alanwunsche) | Blog : [Algonomic](http://www.algonomic.com/blog/)
 
-[Keybase : https://keybase.io/alanwunsche](https://keybase.io/alanwunsche) | [public folder](https://keybase.pub/alanwunsche/)
+[Encrypted Chat: https://keybase.io/alanwunsche/chat](https://keybase.io/alanwunsche/chat) | [public folder](https://keybase.pub/alanwunsche/)
 
 ## Intro
 ![AAW](https://github.com/alanwunsche/bio/blob/master/alanwunsche-200.jpg)
